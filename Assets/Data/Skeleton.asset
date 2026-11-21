@@ -13,11 +13,11 @@ MonoBehaviour:
   m_Name: Skeleton
   m_EditorClassIdentifier: Assembly-CSharp::Isometric2DGame.Enemy.EnemyConfig
   _detectRange: 5
-  _loseRange: 7
-  _attackRange: 1
+  _loseSightRange: 7
   _damage: 10
+  _attackRange: 1
   _attackCooldown: 1
   _patrolSpeed: 1.5
   _chaseSpeed: 3
-  _idleTime: 2
+  _idleTime: 5
   _patrolPointTolerance: 0.1
