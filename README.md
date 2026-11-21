@@ -1,10 +1,10 @@
 # Isometric 2D Game - WIP
 
-This small game is a work for a programming trial.
+This small game was developed in 5 days for a programming trial in an internship admission round.
 
 ## Overview
 
-- **Engine:** Unity 6.4.1f1 (2D URP)
+- **Engine:** Unity 6000.4.1f1 (2D URP)
 - **Language:** C#
 - **Platform:** PC
 
@@ -30,34 +30,31 @@ This small game is a work for a programming trial.
 ## Features
 
 - [x] Task 1: Project setup and GitHub integration
-- [ ] Task 2: Isometric player movement and input system
+- [x] Task 2: Isometric player movement and input system
 - [ ] Task 3: Enemy AI state machine
 - [ ] Task 4: Specialization (<Combat / Inventory / Dialogue>)
 
-## Project Structure
+*TODO: explain what was implemented and designed*
+## Project Structure WIP
 
 ```
 Assets/_Project/
 ├── Art/
+├── Data/
+├── Input/
 ├── Prefabs/
 ├── Scenes/
-└── Scripts/
-Docs/
+├── Scripts/
+└── Setting/
+Docs/ todo
 └── workflow-diagram.drawio
 ```
 
-## Git Workflow
-
-- `main` is always in a working state.
-- One `feature/*` branch per task, merged via pull request.
-- Commit messages follow Conventional Commits (`feat:`, `fix:`, `chore:`, `docs:`).
-
-## Planning & Estimation
-
+## Planning
+todo
 ## Assets & Credits
 
-| Asset | Author | License | Source |
-|-------|--------|---------|--------|
-| | | | |
+see CREDITS.md in `Assets/Art/`
 
 ## License
+todo

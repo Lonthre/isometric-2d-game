@@ -1,0 +1,6773 @@
+fileFormatVersion: 2
+guid: 7e3a1ecf0dae9014bbd8cbea7d51c918
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8801449190307681389
+    second: leather_armor_0
+  - first:
+      213: -374496645847497998
+    second: leather_armor_1
+  - first:
+      213: -3076802953487412943
+    second: leather_armor_2
+  - first:
+      213: -818550221027701691
+    second: leather_armor_3
+  - first:
+      213: -2178048501587673010
+    second: leather_armor_4
+  - first:
+      213: -440848764488781309
+    second: leather_armor_5
+  - first:
+      213: 7904068241211634400
+    second: leather_armor_6
+  - first:
+      213: -7368586804650071249
+    second: leather_armor_7
+  - first:
+      213: -3290513454755267460
+    second: leather_armor_8
+  - first:
+      213: 2010009222836179031
+    second: leather_armor_9
+  - first:
+      213: -5199631063713264226
+    second: leather_armor_10
+  - first:
+      213: -874284879238950389
+    second: leather_armor_11
+  - first:
+      213: 1556041297206769021
+    second: leather_armor_12
+  - first:
+      213: -6416524010301898706
+    second: leather_armor_13
+  - first:
+      213: 4632128127295400593
+    second: leather_armor_14
+  - first:
+      213: -4497214508206172376
+    second: leather_armor_15
+  - first:
+      213: -6423740066622815139
+    second: leather_armor_16
+  - first:
+      213: -298361050098197000
+    second: leather_armor_17
+  - first:
+      213: -7872976923583475321
+    second: leather_armor_18
+  - first:
+      213: -2414150064756597333
+    second: leather_armor_19
+  - first:
+      213: -8555086403257658690
+    second: leather_armor_20
+  - first:
+      213: -729606451510353274
+    second: leather_armor_21
+  - first:
+      213: -7229814140314286878
+    second: leather_armor_22
+  - first:
+      213: -6403901851174536869
+    second: leather_armor_23
+  - first:
+      213: 6077297293161603824
+    second: leather_armor_24
+  - first:
+      213: 7576166870301031239
+    second: leather_armor_25
+  - first:
+      213: 2877805242938277853
+    second: leather_armor_26
+  - first:
+      213: 7793534125807949539
+    second: leather_armor_27
+  - first:
+      213: 1411364938497378731
+    second: leather_armor_28
+  - first:
+      213: 1823602000962725402
+    second: leather_armor_29
+  - first:
+      213: 4113761281545041665
+    second: leather_armor_30
+  - first:
+      213: 5755486776222049914
+    second: leather_armor_31
+  - first:
+      213: 2378787183730430603
+    second: leather_armor_32
+  - first:
+      213: 5818732695423684779
+    second: leather_armor_33
+  - first:
+      213: -1656916284440617179
+    second: leather_armor_34
+  - first:
+      213: 3529832578654680897
+    second: leather_armor_35
+  - first:
+      213: -3909121303074118576
+    second: leather_armor_36
+  - first:
+      213: 5053984624442663120
+    second: leather_armor_37
+  - first:
+      213: 6465866201792469624
+    second: leather_armor_38
+  - first:
+      213: -157392098312248482
+    second: leather_armor_39
+  - first:
+      213: -2216630996706931684
+    second: leather_armor_40
+  - first:
+      213: -1423577840802230585
+    second: leather_armor_41
+  - first:
+      213: 4299858034478788211
+    second: leather_armor_42
+  - first:
+      213: -6953984583165493257
+    second: leather_armor_43
+  - first:
+      213: -4160741095502350839
+    second: leather_armor_44
+  - first:
+      213: -5923879283865204143
+    second: leather_armor_45
+  - first:
+      213: 7813480825692244711
+    second: leather_armor_46
+  - first:
+      213: 5097127101424751923
+    second: leather_armor_47
+  - first:
+      213: -734542155598484958
+    second: leather_armor_48
+  - first:
+      213: -5826068083897696853
+    second: leather_armor_49
+  - first:
+      213: -2569703702011236245
+    second: leather_armor_50
+  - first:
+      213: -7965482099974006951
+    second: leather_armor_51
+  - first:
+      213: -3544030583984117017
+    second: leather_armor_52
+  - first:
+      213: -2943324589823554047
+    second: leather_armor_53
+  - first:
+      213: 1956653090421592213
+    second: leather_armor_54
+  - first:
+      213: 240240929773702268
+    second: leather_armor_55
+  - first:
+      213: -6913091410086029094
+    second: leather_armor_56
+  - first:
+      213: -1229638548828492559
+    second: leather_armor_57
+  - first:
+      213: 3572402749475444058
+    second: leather_armor_58
+  - first:
+      213: -8983407493160870251
+    second: leather_armor_59
+  - first:
+      213: 6520740785505371029
+    second: leather_armor_60
+  - first:
+      213: -8818759374443389837
+    second: leather_armor_61
+  - first:
+      213: -5570564837311952819
+    second: leather_armor_62
+  - first:
+      213: -4341150967939113410
+    second: leather_armor_63
+  - first:
+      213: 3405971158635175148
+    second: leather_armor_64
+  - first:
+      213: 7570499153522474446
+    second: leather_armor_65
+  - first:
+      213: 5092078083328717376
+    second: leather_armor_66
+  - first:
+      213: 1898911298302898058
+    second: leather_armor_67
+  - first:
+      213: 1923584338345506931
+    second: leather_armor_68
+  - first:
+      213: 6442328583698975494
+    second: leather_armor_69
+  - first:
+      213: -2545978920733254167
+    second: leather_armor_70
+  - first:
+      213: -9124607425194154111
+    second: leather_armor_71
+  - first:
+      213: 9115124882664041494
+    second: leather_armor_72
+  - first:
+      213: -5834740794042977583
+    second: leather_armor_73
+  - first:
+      213: -4773424581618324815
+    second: leather_armor_74
+  - first:
+      213: -6067536417358924440
+    second: leather_armor_75
+  - first:
+      213: -7995628804315013856
+    second: leather_armor_76
+  - first:
+      213: -8805446932349933254
+    second: leather_armor_77
+  - first:
+      213: 21939268335264342
+    second: leather_armor_78
+  - first:
+      213: -247894440478937721
+    second: leather_armor_79
+  - first:
+      213: 6804884573177348071
+    second: leather_armor_80
+  - first:
+      213: 6212520885261943855
+    second: leather_armor_81
+  - first:
+      213: 9112151639859267269
+    second: leather_armor_82
+  - first:
+      213: -3322678499191863252
+    second: leather_armor_83
+  - first:
+      213: 8903600652406301014
+    second: leather_armor_84
+  - first:
+      213: -4455583310866130821
+    second: leather_armor_85
+  - first:
+      213: 6466559542138490207
+    second: leather_armor_86
+  - first:
+      213: 109540221719268185
+    second: leather_armor_87
+  - first:
+      213: 6272749289625667377
+    second: leather_armor_88
+  - first:
+      213: -5440264464400225423
+    second: leather_armor_89
+  - first:
+      213: 8452588513380377559
+    second: leather_armor_90
+  - first:
+      213: -74273175247169190
+    second: leather_armor_91
+  - first:
+      213: -1720855699218613740
+    second: leather_armor_92
+  - first:
+      213: -3399010961082149477
+    second: leather_armor_93
+  - first:
+      213: -1300939977174753234
+    second: leather_armor_94
+  - first:
+      213: 3977867858206955391
+    second: leather_armor_95
+  - first:
+      213: 3535948183536160966
+    second: leather_armor_96
+  - first:
+      213: -6279056490810908151
+    second: leather_armor_97
+  - first:
+      213: 7773944131171878926
+    second: leather_armor_98
+  - first:
+      213: 634568414219353132
+    second: leather_armor_99
+  - first:
+      213: 7986032388278077600
+    second: leather_armor_100
+  - first:
+      213: -2434493442498248291
+    second: leather_armor_101
+  - first:
+      213: -1072231688758203453
+    second: leather_armor_102
+  - first:
+      213: -8313049548415888750
+    second: leather_armor_103
+  - first:
+      213: 1297025929177209062
+    second: leather_armor_104
+  - first:
+      213: -4494341711424240979
+    second: leather_armor_105
+  - first:
+      213: -5077947338847776609
+    second: leather_armor_106
+  - first:
+      213: 8103755323282100668
+    second: leather_armor_107
+  - first:
+      213: -905902061834021522
+    second: leather_armor_108
+  - first:
+      213: -4019643895718406872
+    second: leather_armor_109
+  - first:
+      213: -3721167646056892614
+    second: leather_armor_110
+  - first:
+      213: 2287844270598388410
+    second: leather_armor_111
+  - first:
+      213: -4179869980204698087
+    second: leather_armor_112
+  - first:
+      213: -6387155487212880105
+    second: leather_armor_113
+  - first:
+      213: 8250450775094046443
+    second: leather_armor_114
+  - first:
+      213: 2992962742292346434
+    second: leather_armor_115
+  - first:
+      213: 4710876449982300632
+    second: leather_armor_116
+  - first:
+      213: 2155385400908031919
+    second: leather_armor_117
+  - first:
+      213: -2007402193684886276
+    second: leather_armor_118
+  - first:
+      213: -1387520045979829286
+    second: leather_armor_119
+  - first:
+      213: 6545511858670903276
+    second: leather_armor_120
+  - first:
+      213: 828714259481715285
+    second: leather_armor_121
+  - first:
+      213: 4456527904587438723
+    second: leather_armor_122
+  - first:
+      213: -5091064834023466160
+    second: leather_armor_123
+  - first:
+      213: -4131205026050196974
+    second: leather_armor_124
+  - first:
+      213: -6529951148792721004
+    second: leather_armor_125
+  - first:
+      213: -4140892480454594420
+    second: leather_armor_126
+  - first:
+      213: -9098883777483322718
+    second: leather_armor_127
+  - first:
+      213: -9189632688886814123
+    second: leather_armor_128
+  - first:
+      213: -2457120173987592947
+    second: leather_armor_129
+  - first:
+      213: 1255272510933781543
+    second: leather_armor_130
+  - first:
+      213: -5221543648486242055
+    second: leather_armor_131
+  - first:
+      213: 5921187630723893563
+    second: leather_armor_132
+  - first:
+      213: 4653140535274513803
+    second: leather_armor_133
+  - first:
+      213: -6452911861528623389
+    second: leather_armor_134
+  - first:
+      213: 2730748872564636433
+    second: leather_armor_135
+  - first:
+      213: -2049084860839071706
+    second: leather_armor_136
+  - first:
+      213: -8992934458401962446
+    second: leather_armor_137
+  - first:
+      213: -4435598978026617844
+    second: leather_armor_138
+  - first:
+      213: 3168046113918341342
+    second: leather_armor_139
+  - first:
+      213: -6683734701430976244
+    second: leather_armor_140
+  - first:
+      213: -5996238257105460833
+    second: leather_armor_141
+  - first:
+      213: -4239105597375321325
+    second: leather_armor_142
+  - first:
+      213: 1279400901603932237
+    second: leather_armor_143
+  - first:
+      213: 5821230930598384400
+    second: leather_armor_144
+  - first:
+      213: -832920824829189706
+    second: leather_armor_145
+  - first:
+      213: -492267656023784017
+    second: leather_armor_146
+  - first:
+      213: 7837667794786268247
+    second: leather_armor_147
+  - first:
+      213: 2160230675504970408
+    second: leather_armor_148
+  - first:
+      213: 2534537963413221919
+    second: leather_armor_149
+  - first:
+      213: 4309302469691147307
+    second: leather_armor_150
+  - first:
+      213: -2017694427391369773
+    second: leather_armor_151
+  - first:
+      213: -428714659481464259
+    second: leather_armor_152
+  - first:
+      213: 5544920269441075654
+    second: leather_armor_153
+  - first:
+      213: -7697960278061599015
+    second: leather_armor_154
+  - first:
+      213: 2235047417592936836
+    second: leather_armor_155
+  - first:
+      213: 1586377693203339290
+    second: leather_armor_156
+  - first:
+      213: 2010992829126416758
+    second: leather_armor_157
+  - first:
+      213: 6793143255503938378
+    second: leather_armor_158
+  - first:
+      213: 3907619353943690643
+    second: leather_armor_159
+  - first:
+      213: 3826347619837547355
+    second: leather_armor_160
+  - first:
+      213: -803389435050086300
+    second: leather_armor_161
+  - first:
+      213: -7422731408229863417
+    second: leather_armor_162
+  - first:
+      213: -2928167778666445175
+    second: leather_armor_163
+  - first:
+      213: -5767012844375666109
+    second: leather_armor_164
+  - first:
+      213: 5781443519179933359
+    second: leather_armor_165
+  - first:
+      213: 1240370373636981570
+    second: leather_armor_166
+  - first:
+      213: 134473303037431476
+    second: leather_armor_167
+  - first:
+      213: 6952891906018468371
+    second: leather_armor_168
+  - first:
+      213: 9046059439777637893
+    second: leather_armor_169
+  - first:
+      213: -9119991944481610718
+    second: leather_armor_170
+  - first:
+      213: 1464235499295169431
+    second: leather_armor_171
+  - first:
+      213: 8714108067609652058
+    second: leather_armor_172
+  - first:
+      213: -9072094343169151225
+    second: leather_armor_173
+  - first:
+      213: 6143681271729766825
+    second: leather_armor_174
+  - first:
+      213: 5307859976569594414
+    second: leather_armor_175
+  - first:
+      213: 4367910659453729303
+    second: leather_armor_176
+  - first:
+      213: -2875868046194071789
+    second: leather_armor_177
+  - first:
+      213: -3209367670966135338
+    second: leather_armor_178
+  - first:
+      213: -2143737633883643663
+    second: leather_armor_179
+  - first:
+      213: 8334937613693416279
+    second: leather_armor_180
+  - first:
+      213: 212779339960999756
+    second: leather_armor_181
+  - first:
+      213: -8189921994889254943
+    second: leather_armor_182
+  - first:
+      213: 8181344483059770348
+    second: leather_armor_183
+  - first:
+      213: -8429204854452062585
+    second: leather_armor_184
+  - first:
+      213: 4553508734713395586
+    second: leather_armor_185
+  - first:
+      213: 1340437242089438146
+    second: leather_armor_186
+  - first:
+      213: -5694032439882024496
+    second: leather_armor_187
+  - first:
+      213: 7550145965829533822
+    second: leather_armor_188
+  - first:
+      213: -7112939754793388612
+    second: leather_armor_189
+  - first:
+      213: -5493816032970279863
+    second: leather_armor_190
+  - first:
+      213: -5416632699498503000
+    second: leather_armor_191
+  - first:
+      213: -4904193802097135769
+    second: leather_armor_192
+  - first:
+      213: -3817398047509938055
+    second: leather_armor_193
+  - first:
+      213: 630748140433687772
+    second: leather_armor_194
+  - first:
+      213: 2056976028270010544
+    second: leather_armor_195
+  - first:
+      213: -5235164808181754518
+    second: leather_armor_196
+  - first:
+      213: -6962031642451081720
+    second: leather_armor_197
+  - first:
+      213: -5462504075190797529
+    second: leather_armor_198
+  - first:
+      213: 2028962925206132153
+    second: leather_armor_199
+  - first:
+      213: -5189557240008108491
+    second: leather_armor_200
+  - first:
+      213: -6826627063651404313
+    second: leather_armor_201
+  - first:
+      213: -4534274882302197653
+    second: leather_armor_202
+  - first:
+      213: -4805225944582627720
+    second: leather_armor_203
+  - first:
+      213: -1725430437814826894
+    second: leather_armor_204
+  - first:
+      213: -1616468404847633910
+    second: leather_armor_205
+  - first:
+      213: -8092941662749597344
+    second: leather_armor_206
+  - first:
+      213: -1734075034292070986
+    second: leather_armor_207
+  - first:
+      213: -4483002622965953071
+    second: leather_armor_208
+  - first:
+      213: 5078969801296284794
+    second: leather_armor_209
+  - first:
+      213: -8983780191553436212
+    second: leather_armor_210
+  - first:
+      213: -4736135298894923938
+    second: leather_armor_211
+  - first:
+      213: 2755574224586908578
+    second: leather_armor_212
+  - first:
+      213: 4487196014817108785
+    second: leather_armor_213
+  - first:
+      213: 9054796552623112891
+    second: leather_armor_214
+  - first:
+      213: 7604349710618824465
+    second: leather_armor_215
+  - first:
+      213: 671180409118818314
+    second: leather_armor_216
+  - first:
+      213: 2628570556699973234
+    second: leather_armor_217
+  - first:
+      213: 5905774514159333066
+    second: leather_armor_218
+  - first:
+      213: -3232768444963305443
+    second: leather_armor_219
+  - first:
+      213: -1698657351879076757
+    second: leather_armor_220
+  - first:
+      213: -4194250908260710868
+    second: leather_armor_221
+  - first:
+      213: 6573694403342873266
+    second: leather_armor_222
+  - first:
+      213: 8723981582281321328
+    second: leather_armor_223
+  - first:
+      213: -2292865147499450592
+    second: leather_armor_224
+  - first:
+      213: 2090093819135185104
+    second: leather_armor_225
+  - first:
+      213: -6499854330246875203
+    second: leather_armor_226
+  - first:
+      213: -2562098255093289204
+    second: leather_armor_227
+  - first:
+      213: -2697819253905397654
+    second: leather_armor_228
+  - first:
+      213: -213061178323107463
+    second: leather_armor_229
+  - first:
+      213: -3253160124825840999
+    second: leather_armor_230
+  - first:
+      213: -4119764144528678091
+    second: leather_armor_231
+  - first:
+      213: -6757305339509840414
+    second: leather_armor_232
+  - first:
+      213: -9014908445425575981
+    second: leather_armor_233
+  - first:
+      213: -4249066226369623347
+    second: leather_armor_234
+  - first:
+      213: -4042635809710478636
+    second: leather_armor_235
+  - first:
+      213: -6206758683377951659
+    second: leather_armor_236
+  - first:
+      213: -8326534059480304275
+    second: leather_armor_237
+  - first:
+      213: -1035140320348085489
+    second: leather_armor_238
+  - first:
+      213: -1821080310379376846
+    second: leather_armor_239
+  - first:
+      213: -3596108299842583406
+    second: leather_armor_240
+  - first:
+      213: -3773425735812618676
+    second: leather_armor_241
+  - first:
+      213: -8419601731767332290
+    second: leather_armor_242
+  - first:
+      213: -5756797528012014611
+    second: leather_armor_243
+  - first:
+      213: -6576010647594910759
+    second: leather_armor_244
+  - first:
+      213: 5049493001742722568
+    second: leather_armor_245
+  - first:
+      213: -2320716640243894093
+    second: leather_armor_246
+  - first:
+      213: 2281491256823338497
+    second: leather_armor_247
+  - first:
+      213: 8589367716933809396
+    second: leather_armor_248
+  - first:
+      213: 7993211027734298865
+    second: leather_armor_249
+  - first:
+      213: -8308497823841770861
+    second: leather_armor_250
+  - first:
+      213: -6062702167561636720
+    second: leather_armor_251
+  - first:
+      213: -3370201438790150794
+    second: leather_armor_252
+  - first:
+      213: -1377654269356214714
+    second: leather_armor_253
+  - first:
+      213: -180013682788219824
+    second: leather_armor_254
+  - first:
+      213: -174840793269739378
+    second: leather_armor_255
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: leather_armor_0
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 922
+        width: 38
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39baf0fe798fad580800000000000000
+      internalID: -8801449190307681389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leather_armor_1
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 922
+        width: 39
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f24fa6e8458dcaf0800000000000000
+      internalID: -374496645847497998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leather_armor_2
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 922
+        width: 39
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1319281f3000d45d0800000000000000
+      internalID: -3076802953487412943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leather_armor_3
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 922
+        width: 39
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54c83dc29ece3a4f0800000000000000
+      internalID: -818550221027701691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leather_armor_4
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 923
+        width: 33
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e408b477d6406c1e0800000000000000
+      internalID: -2178048501587673010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leather_armor_5
+      rect:
+        serializedVersion: 2
+        x: 694
+        y: 927
+        width: 40
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 302f9f8626ac1e9f0800000000000000
+      internalID: -440848764488781309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leather_armor_6
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 927
+        width: 52
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e2bdd51034e0bd60800000000000000
+      internalID: 7904068241211634400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leather_armor_7
+      rect:
+        serializedVersion: 2
+        x: 947
+        y: 927
+        width: 47
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2ba33477558db990800000000000000
+      internalID: -7368586804650071249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leather_armor_8
+      rect:
+        serializedVersion: 2
+        x: 1081
+        y: 927
+        width: 34
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7c3ba0627fb552d0800000000000000
+      internalID: -3290513454755267460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leather_armor_9
+      rect:
+        serializedVersion: 2
+        x: 1206
+        y: 924
+        width: 40
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 750d86a1dbcf4eb10800000000000000
+      internalID: 2010009222836179031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leather_armor_10
+      rect:
+        serializedVersion: 2
+        x: 1328
+        y: 924
+        width: 52
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9dc84ca81337d7b0800000000000000
+      internalID: -5199631063713264226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leather_armor_11
+      rect:
+        serializedVersion: 2
+        x: 1461
+        y: 923
+        width: 44
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b029774d88aedd3f0800000000000000
+      internalID: -874284879238950389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leather_armor_12
+      rect:
+        serializedVersion: 2
+        x: 1584
+        y: 923
+        width: 39
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d75f8d7c05b289510800000000000000
+      internalID: 1556041297206769021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leather_armor_13
+      rect:
+        serializedVersion: 2
+        x: 1708
+        y: 922
+        width: 42
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e20c039a86de3f6a0800000000000000
+      internalID: -6416524010301898706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leather_armor_14
+      rect:
+        serializedVersion: 2
+        x: 1827
+        y: 922
+        width: 52
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19aa98d5dff984040800000000000000
+      internalID: 4632128127295400593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leather_armor_15
+      rect:
+        serializedVersion: 2
+        x: 1963
+        y: 922
+        width: 45
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82753a76b3fa691c0800000000000000
+      internalID: -4497214508206172376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leather_armor_16
+      rect:
+        serializedVersion: 2
+        x: 2096
+        y: 922
+        width: 39
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d54c08f917a4ad6a0800000000000000
+      internalID: -6423740066622815139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leather_armor_17
+      rect:
+        serializedVersion: 2
+        x: 2225
+        y: 921
+        width: 38
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fd951aa4320cdbf0800000000000000
+      internalID: -298361050098197000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leather_armor_18
+      rect:
+        serializedVersion: 2
+        x: 2352
+        y: 923
+        width: 40
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78195f863319db290800000000000000
+      internalID: -7872976923583475321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leather_armor_19
+      rect:
+        serializedVersion: 2
+        x: 2480
+        y: 922
+        width: 38
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bad52bb8e473f7ed0800000000000000
+      internalID: -2414150064756597333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leather_armor_20
+      rect:
+        serializedVersion: 2
+        x: 2611
+        y: 924
+        width: 40
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb29d073e3a364980800000000000000
+      internalID: -8555086403257658690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leather_armor_21
+      rect:
+        serializedVersion: 2
+        x: 2739
+        y: 924
+        width: 41
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68264e74ccaefd5f0800000000000000
+      internalID: -729606451510353274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leather_armor_22
+      rect:
+        serializedVersion: 2
+        x: 2863
+        y: 916
+        width: 48
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e48876385a8aab90800000000000000
+      internalID: -7229814140314286878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leather_armor_23
+      rect:
+        serializedVersion: 2
+        x: 2987
+        y: 915
+        width: 53
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5976481235c027a0800000000000000
+      internalID: -6403901851174536869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leather_armor_24
+      rect:
+        serializedVersion: 2
+        x: 3115
+        y: 921
+        width: 40
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f2275170b5e65450800000000000000
+      internalID: 6077297293161603824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leather_armor_25
+      rect:
+        serializedVersion: 2
+        x: 3243
+        y: 922
+        width: 40
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74b3067d0a3f32960800000000000000
+      internalID: 7576166870301031239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leather_armor_26
+      rect:
+        serializedVersion: 2
+        x: 3375
+        y: 922
+        width: 37
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddfb7160f9400f720800000000000000
+      internalID: 2877805242938277853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leather_armor_27
+      rect:
+        serializedVersion: 2
+        x: 3503
+        y: 922
+        width: 43
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e6daa9def1382c60800000000000000
+      internalID: 7793534125807949539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leather_armor_28
+      rect:
+        serializedVersion: 2
+        x: 3631
+        y: 922
+        width: 38
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba9c39f0fec269310800000000000000
+      internalID: 1411364938497378731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leather_armor_29
+      rect:
+        serializedVersion: 2
+        x: 3753
+        y: 922
+        width: 47
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a162317ab5cbe4910800000000000000
+      internalID: 1823602000962725402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leather_armor_30
+      rect:
+        serializedVersion: 2
+        x: 3880
+        y: 922
+        width: 51
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1077f350714071930800000000000000
+      internalID: 4113761281545041665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leather_armor_31
+      rect:
+        serializedVersion: 2
+        x: 4018
+        y: 922
+        width: 38
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a766c26aab89fdf40800000000000000
+      internalID: 5755486776222049914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leather_armor_32
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 795
+        width: 43
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b82118a1756230120800000000000000
+      internalID: 2378787183730430603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leather_armor_33
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 795
+        width: 44
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba01ea9be8a40c050800000000000000
+      internalID: 5818732695423684779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leather_armor_34
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 795
+        width: 43
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52f5b530b637109e0800000000000000
+      internalID: -1656916284440617179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leather_armor_35
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 795
+        width: 42
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1473057470c7cf030800000000000000
+      internalID: 3529832578654680897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leather_armor_36
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 793
+        width: 34
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 054ea52e2e200c9c0800000000000000
+      internalID: -3909121303074118576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leather_armor_37
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 790
+        width: 37
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d0e0302d3c532640800000000000000
+      internalID: 5053984624442663120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leather_armor_38
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 790
+        width: 42
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87a5b0b8d0f5bb950800000000000000
+      internalID: 6465866201792469624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leather_armor_39
+      rect:
+        serializedVersion: 2
+        x: 945
+        y: 793
+        width: 39
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5325a178b4d0ddf0800000000000000
+      internalID: -157392098312248482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leather_armor_40
+      rect:
+        serializedVersion: 2
+        x: 1077
+        y: 795
+        width: 31
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1cc92b4ad1fc31e0800000000000000
+      internalID: -2216630996706931684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leather_armor_41
+      rect:
+        serializedVersion: 2
+        x: 1209
+        y: 792
+        width: 32
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ce8dd80f7f6e3ce0800000000000000
+      internalID: -1423577840802230585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leather_armor_42
+      rect:
+        serializedVersion: 2
+        x: 1329
+        y: 793
+        width: 46
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37ea7b9c91a2cab30800000000000000
+      internalID: 4299858034478788211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leather_armor_43
+      rect:
+        serializedVersion: 2
+        x: 1464
+        y: 795
+        width: 36
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ffb0ea8ddb7e7f90800000000000000
+      internalID: -6953984583165493257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leather_armor_44
+      rect:
+        serializedVersion: 2
+        x: 1581
+        y: 795
+        width: 41
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9067638a4041246c0800000000000000
+      internalID: -4160741095502350839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leather_armor_45
+      rect:
+        serializedVersion: 2
+        x: 1710
+        y: 795
+        width: 39
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15a4be86d272acda0800000000000000
+      internalID: -5923879283865204143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leather_armor_46
+      rect:
+        serializedVersion: 2
+        x: 1838
+        y: 795
+        width: 41
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ea46b2d96f0f6c60800000000000000
+      internalID: 7813480825692244711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leather_armor_47
+      rect:
+        serializedVersion: 2
+        x: 1967
+        y: 794
+        width: 42
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 335507fc712acb640800000000000000
+      internalID: 5097127101424751923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leather_armor_48
+      rect:
+        serializedVersion: 2
+        x: 2095
+        y: 795
+        width: 43
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22aa00f1dc16ec5f0800000000000000
+      internalID: -734542155598484958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leather_armor_49
+      rect:
+        serializedVersion: 2
+        x: 2223
+        y: 795
+        width: 42
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bad790e02f5a52fa0800000000000000
+      internalID: -5826068083897696853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leather_armor_50
+      rect:
+        serializedVersion: 2
+        x: 2353
+        y: 795
+        width: 39
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b603d9f0914965cd0800000000000000
+      internalID: -2569703702011236245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leather_armor_51
+      rect:
+        serializedVersion: 2
+        x: 2479
+        y: 795
+        width: 41
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9571156ab3ce47190800000000000000
+      internalID: -7965482099974006951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leather_armor_52
+      rect:
+        serializedVersion: 2
+        x: 2612
+        y: 793
+        width: 39
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7eaa18006f211dec0800000000000000
+      internalID: -3544030583984117017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leather_armor_53
+      rect:
+        serializedVersion: 2
+        x: 2740
+        y: 792
+        width: 39
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10e05e441e53727d0800000000000000
+      internalID: -2943324589823554047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leather_armor_54
+      rect:
+        serializedVersion: 2
+        x: 2864
+        y: 786
+        width: 38
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 590df337e9d672b10800000000000000
+      internalID: 1956653090421592213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leather_armor_55
+      rect:
+        serializedVersion: 2
+        x: 2992
+        y: 785
+        width: 38
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7ccbaf4ad1855300800000000000000
+      internalID: 240240929773702268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leather_armor_56
+      rect:
+        serializedVersion: 2
+        x: 3116
+        y: 795
+        width: 45
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad8940a5df3cf00a0800000000000000
+      internalID: -6913091410086029094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leather_armor_57
+      rect:
+        serializedVersion: 2
+        x: 3240
+        y: 795
+        width: 49
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fc63f631427feee0800000000000000
+      internalID: -1229638548828492559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leather_armor_58
+      rect:
+        serializedVersion: 2
+        x: 3369
+        y: 795
+        width: 55
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a55dc1d8f59b39130800000000000000
+      internalID: 3572402749475444058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leather_armor_59
+      rect:
+        serializedVersion: 2
+        x: 3497
+        y: 795
+        width: 57
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59e50992b76845380800000000000000
+      internalID: -8983407493160870251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leather_armor_60
+      rect:
+        serializedVersion: 2
+        x: 3629
+        y: 795
+        width: 39
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 593037032335e7a50800000000000000
+      internalID: 6520740785505371029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leather_armor_61
+      rect:
+        serializedVersion: 2
+        x: 3757
+        y: 794
+        width: 47
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37cd7ae92197d9580800000000000000
+      internalID: -8818759374443389837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leather_armor_62
+      rect:
+        serializedVersion: 2
+        x: 3883
+        y: 795
+        width: 54
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d484db96bc061b2b0800000000000000
+      internalID: -5570564837311952819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leather_armor_63
+      rect:
+        serializedVersion: 2
+        x: 4014
+        y: 795
+        width: 49
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3e55afe13221c3c0800000000000000
+      internalID: -4341150967939113410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leather_armor_64
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 662
+        width: 37
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cecdca129b0744f20800000000000000
+      internalID: 3405971158635175148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leather_armor_65
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 662
+        width: 37
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecd3a12bed0df0960800000000000000
+      internalID: 7570499153522474446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leather_armor_66
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 662
+        width: 37
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0423c5da902baa640800000000000000
+      internalID: 5092078083328717376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leather_armor_67
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 662
+        width: 36
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8fe153d3c94a5a10800000000000000
+      internalID: 1898911298302898058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leather_armor_68
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 665
+        width: 34
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 378b69e93c1f1ba10800000000000000
+      internalID: 1923584338345506931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leather_armor_69
+      rect:
+        serializedVersion: 2
+        x: 692
+        y: 660
+        width: 33
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60b09b5c6bfb76950800000000000000
+      internalID: 6442328583698975494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leather_armor_70
+      rect:
+        serializedVersion: 2
+        x: 821
+        y: 659
+        width: 32
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9eddf0829addaacd0800000000000000
+      internalID: -2545978920733254167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leather_armor_71
+      rect:
+        serializedVersion: 2
+        x: 949
+        y: 663
+        width: 32
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 187296a14e1ee5180800000000000000
+      internalID: -9124607425194154111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leather_armor_72
+      rect:
+        serializedVersion: 2
+        x: 1077
+        y: 665
+        width: 32
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61ca38a69cd6f7e70800000000000000
+      internalID: 9115124882664041494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leather_armor_73
+      rect:
+        serializedVersion: 2
+        x: 1204
+        y: 660
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d2769e5926d60fa0800000000000000
+      internalID: -5834740794042977583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leather_armor_74
+      rect:
+        serializedVersion: 2
+        x: 1332
+        y: 659
+        width: 32
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1baa58a32a361cdb0800000000000000
+      internalID: -4773424581618324815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leather_armor_75
+      rect:
+        serializedVersion: 2
+        x: 1459
+        y: 663
+        width: 34
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 865339d86c7cbcba0800000000000000
+      internalID: -6067536417358924440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leather_armor_76
+      rect:
+        serializedVersion: 2
+        x: 1585
+        y: 662
+        width: 42
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02d1ce217f1d90190800000000000000
+      internalID: -7995628804315013856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leather_armor_77
+      rect:
+        serializedVersion: 2
+        x: 1710
+        y: 663
+        width: 44
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a39aab41ba4ccc580800000000000000
+      internalID: -8805446932349933254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leather_armor_78
+      rect:
+        serializedVersion: 2
+        x: 1842
+        y: 662
+        width: 33
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65261c7f5a1fd4000800000000000000
+      internalID: 21939268335264342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leather_armor_79
+      rect:
+        serializedVersion: 2
+        x: 1974
+        y: 660
+        width: 29
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78d657dd15d4f8cf0800000000000000
+      internalID: -247894440478937721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leather_armor_80
+      rect:
+        serializedVersion: 2
+        x: 2101
+        y: 662
+        width: 35
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ef75c9277ecf6e50800000000000000
+      internalID: 6804884573177348071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leather_armor_81
+      rect:
+        serializedVersion: 2
+        x: 2229
+        y: 662
+        width: 33
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f24cbbd64de473650800000000000000
+      internalID: 6212520885261943855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leather_armor_82
+      rect:
+        serializedVersion: 2
+        x: 2359
+        y: 661
+        width: 30
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c60e4163add47e70800000000000000
+      internalID: 9112151639859267269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leather_armor_83
+      rect:
+        serializedVersion: 2
+        x: 2486
+        y: 663
+        width: 33
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2847d0628973e1d0800000000000000
+      internalID: -3322678499191863252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leather_armor_84
+      rect:
+        serializedVersion: 2
+        x: 2616
+        y: 658
+        width: 34
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6512d9cbe91ff8b70800000000000000
+      internalID: 8903600652406301014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leather_armor_85
+      rect:
+        serializedVersion: 2
+        x: 2744
+        y: 659
+        width: 32
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b785aa0e5969a22c0800000000000000
+      internalID: -4455583310866130821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leather_armor_86
+      rect:
+        serializedVersion: 2
+        x: 2858
+        y: 656
+        width: 47
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5dc31c64a5ddb950800000000000000
+      internalID: 6466559542138490207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leather_armor_87
+      rect:
+        serializedVersion: 2
+        x: 2983
+        y: 656
+        width: 50
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95bc134504a258100800000000000000
+      internalID: 109540221719268185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leather_armor_88
+      rect:
+        serializedVersion: 2
+        x: 3124
+        y: 663
+        width: 44
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 137c8359e384d0750800000000000000
+      internalID: 6272749289625667377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leather_armor_89
+      rect:
+        serializedVersion: 2
+        x: 3249
+        y: 663
+        width: 49
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17b6e3b1b4c4084b0800000000000000
+      internalID: -5440264464400225423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leather_armor_90
+      rect:
+        serializedVersion: 2
+        x: 3373
+        y: 663
+        width: 53
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d3a59c1870ad4570800000000000000
+      internalID: 8452588513380377559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leather_armor_91
+      rect:
+        serializedVersion: 2
+        x: 3498
+        y: 663
+        width: 54
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a595d0dc0f028fef0800000000000000
+      internalID: -74273175247169190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leather_armor_92
+      rect:
+        serializedVersion: 2
+        x: 3636
+        y: 663
+        width: 31
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41a3e5aebda4e18e0800000000000000
+      internalID: -1720855699218613740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leather_armor_93
+      rect:
+        serializedVersion: 2
+        x: 3765
+        y: 662
+        width: 35
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b951a052a8944d0d0800000000000000
+      internalID: -3399010961082149477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leather_armor_94
+      rect:
+        serializedVersion: 2
+        x: 3893
+        y: 663
+        width: 40
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e20e462cbf122fde0800000000000000
+      internalID: -1300939977174753234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leather_armor_95
+      rect:
+        serializedVersion: 2
+        x: 4020
+        y: 663
+        width: 43
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f779edbcdb9343730800000000000000
+      internalID: 3977867858206955391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leather_armor_96
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 533
+        width: 31
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c05cdf7326321130800000000000000
+      internalID: 3535948183536160966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leather_armor_97
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 533
+        width: 31
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 902ea94b36f4cd8a0800000000000000
+      internalID: -6279056490810908151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leather_armor_98
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 533
+        width: 31
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e088b3acff892eb60800000000000000
+      internalID: 7773944131171878926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leather_armor_99
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 533
+        width: 31
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2c3a335c907ec800800000000000000
+      internalID: 634568414219353132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leather_armor_100
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 539
+        width: 34
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a84414352614de60800000000000000
+      internalID: 7986032388278077600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leather_armor_101
+      rect:
+        serializedVersion: 2
+        x: 683
+        y: 535
+        width: 40
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d91cfdfcc11f63ed0800000000000000
+      internalID: -2434493442498248291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leather_armor_102
+      rect:
+        serializedVersion: 2
+        x: 806
+        y: 537
+        width: 44
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3cb66a2c5faae11f0800000000000000
+      internalID: -1072231688758203453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leather_armor_103
+      rect:
+        serializedVersion: 2
+        x: 936
+        y: 540
+        width: 43
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 292137aea7d12ac80800000000000000
+      internalID: -8313049548415888750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leather_armor_104
+      rect:
+        serializedVersion: 2
+        x: 1069
+        y: 537
+        width: 39
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e8141de536fff110800000000000000
+      internalID: 1297025929177209062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leather_armor_105
+      rect:
+        serializedVersion: 2
+        x: 1199
+        y: 534
+        width: 37
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da246578604e0a1c0800000000000000
+      internalID: -4494341711424240979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leather_armor_106
+      rect:
+        serializedVersion: 2
+        x: 1323
+        y: 534
+        width: 45
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9096d7acc18789b0800000000000000
+      internalID: -5077947338847776609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leather_armor_107
+      rect:
+        serializedVersion: 2
+        x: 1454
+        y: 537
+        width: 40
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb119eee782567070800000000000000
+      internalID: 8103755323282100668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leather_armor_108
+      rect:
+        serializedVersion: 2
+        x: 1588
+        y: 533
+        width: 40
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e65d61bdfd69d63f0800000000000000
+      internalID: -905902061834021522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leather_armor_109
+      rect:
+        serializedVersion: 2
+        x: 1717
+        y: 534
+        width: 45
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82513208c2b5738c0800000000000000
+      internalID: -4019643895718406872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leather_armor_110
+      rect:
+        serializedVersion: 2
+        x: 1841
+        y: 533
+        width: 48
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a373a13ddb1cb5cc0800000000000000
+      internalID: -3721167646056892614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leather_armor_111
+      rect:
+        serializedVersion: 2
+        x: 1972
+        y: 532
+        width: 39
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abafd6a1e3e00cf10800000000000000
+      internalID: 2287844270598388410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leather_armor_112
+      rect:
+        serializedVersion: 2
+        x: 2100
+        y: 533
+        width: 37
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 916749e166e1ef5c0800000000000000
+      internalID: -4179869980204698087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leather_armor_113
+      rect:
+        serializedVersion: 2
+        x: 2228
+        y: 534
+        width: 37
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71f3d7bcce34c57a0800000000000000
+      internalID: -6387155487212880105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leather_armor_114
+      rect:
+        serializedVersion: 2
+        x: 2358
+        y: 533
+        width: 28
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: beea356644d7f7270800000000000000
+      internalID: 8250450775094046443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leather_armor_115
+      rect:
+        serializedVersion: 2
+        x: 2488
+        y: 532
+        width: 31
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2467058b1c3298920800000000000000
+      internalID: 2992962742292346434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leather_armor_116
+      rect:
+        serializedVersion: 2
+        x: 2610
+        y: 531
+        width: 40
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d1c2f50c25606140800000000000000
+      internalID: 4710876449982300632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leather_armor_117
+      rect:
+        serializedVersion: 2
+        x: 2737
+        y: 530
+        width: 39
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa7af273a9779ed10800000000000000
+      internalID: 2155385400908031919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leather_armor_118
+      rect:
+        serializedVersion: 2
+        x: 2853
+        y: 533
+        width: 50
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfc821c27564424e0800000000000000
+      internalID: -2007402193684886276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leather_armor_119
+      rect:
+        serializedVersion: 2
+        x: 2979
+        y: 533
+        width: 53
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: adb73ac9ed98ebce0800000000000000
+      internalID: -1387520045979829286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leather_armor_120
+      rect:
+        serializedVersion: 2
+        x: 3127
+        y: 535
+        width: 38
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cef9f291b5456da50800000000000000
+      internalID: 6545511858670903276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leather_armor_121
+      rect:
+        serializedVersion: 2
+        x: 3254
+        y: 535
+        width: 42
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55265b07a3f208b00800000000000000
+      internalID: 828714259481715285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leather_armor_122
+      rect:
+        serializedVersion: 2
+        x: 3383
+        y: 535
+        width: 36
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38adc8c7484c8dd30800000000000000
+      internalID: 4456527904587438723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leather_armor_123
+      rect:
+        serializedVersion: 2
+        x: 3511
+        y: 535
+        width: 28
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05b5c8fc187e859b0800000000000000
+      internalID: -5091064834023466160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leather_armor_124
+      rect:
+        serializedVersion: 2
+        x: 3637
+        y: 535
+        width: 29
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21a38f7bae20ba6c0800000000000000
+      internalID: -4131205026050196974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leather_armor_125
+      rect:
+        serializedVersion: 2
+        x: 3765
+        y: 535
+        width: 37
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4915e8ff604f065a0800000000000000
+      internalID: -6529951148792721004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leather_armor_126
+      rect:
+        serializedVersion: 2
+        x: 3894
+        y: 535
+        width: 35
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c80fa697a389886c0800000000000000
+      internalID: -4140892480454594420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leather_armor_127
+      rect:
+        serializedVersion: 2
+        x: 4021
+        y: 535
+        width: 31
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2aaca8e89654ab180800000000000000
+      internalID: -9098883777483322718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leather_armor_128
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 410
+        width: 44
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55a659a12cdd77080800000000000000
+      internalID: -9189632688886814123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leather_armor_129
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 410
+        width: 44
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d05060b583e86edd0800000000000000
+      internalID: -2457120173987592947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leather_armor_130
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 410
+        width: 44
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72c458ea2bf9b6110800000000000000
+      internalID: 1255272510933781543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leather_armor_131
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 410
+        width: 44
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f8c7c477b95987b0800000000000000
+      internalID: -5221543648486242055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leather_armor_132
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 416
+        width: 40
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b390cb147c84c2250800000000000000
+      internalID: 5921187630723893563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leather_armor_133
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 412
+        width: 44
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b852207d9a6439040800000000000000
+      internalID: 4653140535274513803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leather_armor_134
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 412
+        width: 55
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e68ea6d9d6a276a0800000000000000
+      internalID: -6452911861528623389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leather_armor_135
+      rect:
+        serializedVersion: 2
+        x: 931
+        y: 412
+        width: 49
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11b7308a1a195e520800000000000000
+      internalID: 2730748872564636433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leather_armor_136
+      rect:
+        serializedVersion: 2
+        x: 1066
+        y: 411
+        width: 40
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6207e03fc203093e0800000000000000
+      internalID: -2049084860839071706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leather_armor_137
+      rect:
+        serializedVersion: 2
+        x: 1190
+        y: 413
+        width: 44
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 236c496b1cda23380800000000000000
+      internalID: -8992934458401962446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leather_armor_138
+      rect:
+        serializedVersion: 2
+        x: 1312
+        y: 415
+        width: 55
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0443a4fa369172c0800000000000000
+      internalID: -4435598978026617844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leather_armor_139
+      rect:
+        serializedVersion: 2
+        x: 1444
+        y: 416
+        width: 47
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed0d824d72927fb20800000000000000
+      internalID: 3168046113918341342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leather_armor_140
+      rect:
+        serializedVersion: 2
+        x: 1580
+        y: 409
+        width: 41
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c01514473ba9e33a0800000000000000
+      internalID: -6683734701430976244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leather_armor_141
+      rect:
+        serializedVersion: 2
+        x: 1708
+        y: 410
+        width: 51
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f912f98131519cca0800000000000000
+      internalID: -5996238257105460833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leather_armor_142
+      rect:
+        serializedVersion: 2
+        x: 1835
+        y: 410
+        width: 58
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31be21f3bebab25c0800000000000000
+      internalID: -4239105597375321325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leather_armor_143
+      rect:
+        serializedVersion: 2
+        x: 1962
+        y: 409
+        width: 49
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d48ba69675851c110800000000000000
+      internalID: 1279400901603932237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leather_armor_144
+      rect:
+        serializedVersion: 2
+        x: 2091
+        y: 409
+        width: 45
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01355dd60ba29c050800000000000000
+      internalID: 5821230930598384400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leather_armor_145
+      rect:
+        serializedVersion: 2
+        x: 2220
+        y: 410
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b1e70e3ceed074f0800000000000000
+      internalID: -832920824829189706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leather_armor_146
+      rect:
+        serializedVersion: 2
+        x: 2347
+        y: 409
+        width: 42
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa5c94ccc2d1b29f0800000000000000
+      internalID: -492267656023784017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leather_armor_147
+      rect:
+        serializedVersion: 2
+        x: 2477
+        y: 408
+        width: 41
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75431c7655df4cc60800000000000000
+      internalID: 7837667794786268247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leather_armor_148
+      rect:
+        serializedVersion: 2
+        x: 2599
+        y: 410
+        width: 45
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8aa306e9a5eaafd10800000000000000
+      internalID: 2160230675504970408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leather_armor_149
+      rect:
+        serializedVersion: 2
+        x: 2726
+        y: 410
+        width: 45
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f12bcf269dc7c2320800000000000000
+      internalID: 2534537963413221919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leather_armor_150
+      rect:
+        serializedVersion: 2
+        x: 2849
+        y: 408
+        width: 48
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2487a7b3c7bdcb30800000000000000
+      internalID: 4309302469691147307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leather_armor_151
+      rect:
+        serializedVersion: 2
+        x: 2976
+        y: 405
+        width: 53
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3dd5d06cb95bff3e0800000000000000
+      internalID: -2017694427391369773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leather_armor_152
+      rect:
+        serializedVersion: 2
+        x: 3118
+        y: 409
+        width: 49
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d32da93e946ec0af0800000000000000
+      internalID: -428714659481464259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leather_armor_153
+      rect:
+        serializedVersion: 2
+        x: 3247
+        y: 410
+        width: 50
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c906e75b9383fc40800000000000000
+      internalID: 5544920269441075654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leather_armor_154
+      rect:
+        serializedVersion: 2
+        x: 3374
+        y: 410
+        width: 46
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d63213a9e95b2590800000000000000
+      internalID: -7697960278061599015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leather_armor_155
+      rect:
+        serializedVersion: 2
+        x: 3503
+        y: 410
+        width: 43
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 489f7c5d8cb740f10800000000000000
+      internalID: 2235047417592936836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leather_armor_156
+      rect:
+        serializedVersion: 2
+        x: 3629
+        y: 410
+        width: 44
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a181df26b12f30610800000000000000
+      internalID: 1586377693203339290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leather_armor_157
+      rect:
+        serializedVersion: 2
+        x: 3757
+        y: 410
+        width: 53
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67910f9c25b78eb10800000000000000
+      internalID: 2010992829126416758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leather_armor_158
+      rect:
+        serializedVersion: 2
+        x: 3885
+        y: 409
+        width: 54
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4327ac9cc7164e50800000000000000
+      internalID: 6793143255503938378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leather_armor_159
+      rect:
+        serializedVersion: 2
+        x: 4013
+        y: 410
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39d41455917aa3630800000000000000
+      internalID: 3907619353943690643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leather_armor_160
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 284
+        width: 40
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b53149b23eae91530800000000000000
+      internalID: 3826347619837547355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leather_armor_161
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 284
+        width: 40
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 460b98bb099c9d4f0800000000000000
+      internalID: -803389435050086300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leather_armor_162
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 283
+        width: 40
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 700f25d8c192df890800000000000000
+      internalID: -7422731408229863417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leather_armor_163
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 284
+        width: 40
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98687dd5bee0d57d0800000000000000
+      internalID: -2928167778666445175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leather_armor_164
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 290
+        width: 39
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3429fdb7f5477ffa0800000000000000
+      internalID: -5767012844375666109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leather_armor_165
+      rect:
+        serializedVersion: 2
+        x: 685
+        y: 287
+        width: 41
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa644b1df30db3050800000000000000
+      internalID: 5781443519179933359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leather_armor_166
+      rect:
+        serializedVersion: 2
+        x: 811
+        y: 280
+        width: 45
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2430d86784ea63110800000000000000
+      internalID: 1240370373636981570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leather_armor_167
+      rect:
+        serializedVersion: 2
+        x: 941
+        y: 281
+        width: 42
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bec153b1cebdd100800000000000000
+      internalID: 134473303037431476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leather_armor_168
+      rect:
+        serializedVersion: 2
+        x: 1074
+        y: 287
+        width: 34
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3126bebb952ad7060800000000000000
+      internalID: 6952891906018468371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leather_armor_169
+      rect:
+        serializedVersion: 2
+        x: 1194
+        y: 289
+        width: 41
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 506e305e12f0a8d70800000000000000
+      internalID: 9046059439777637893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leather_armor_170
+      rect:
+        serializedVersion: 2
+        x: 1317
+        y: 282
+        width: 45
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 224efb275a74f6180800000000000000
+      internalID: -9119991944481610718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leather_armor_171
+      rect:
+        serializedVersion: 2
+        x: 1449
+        y: 286
+        width: 42
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79b5103cd62025410800000000000000
+      internalID: 1464235499295169431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leather_armor_172
+      rect:
+        serializedVersion: 2
+        x: 1580
+        y: 284
+        width: 46
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5b2d304e1bbee870800000000000000
+      internalID: 8714108067609652058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leather_armor_173
+      rect:
+        serializedVersion: 2
+        x: 1708
+        y: 283
+        width: 43
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70f629ac242791280800000000000000
+      internalID: -9072094343169151225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leather_armor_174
+      rect:
+        serializedVersion: 2
+        x: 1835
+        y: 284
+        width: 46
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a14ca6e09db24550800000000000000
+      internalID: 6143681271729766825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leather_armor_175
+      rect:
+        serializedVersion: 2
+        x: 1961
+        y: 284
+        width: 47
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e22a1f4c68e49a940800000000000000
+      internalID: 5307859976569594414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leather_armor_176
+      rect:
+        serializedVersion: 2
+        x: 2092
+        y: 284
+        width: 42
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71ab1634a9fed9c30800000000000000
+      internalID: 4367910659453729303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leather_armor_177
+      rect:
+        serializedVersion: 2
+        x: 2220
+        y: 284
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 317a4bdbf3dd618d0800000000000000
+      internalID: -2875868046194071789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leather_armor_178
+      rect:
+        serializedVersion: 2
+        x: 2346
+        y: 283
+        width: 43
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d5d0727b190673d0800000000000000
+      internalID: -3209367670966135338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leather_armor_179
+      rect:
+        serializedVersion: 2
+        x: 2474
+        y: 284
+        width: 43
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f0aab0eaf9ef32e0800000000000000
+      internalID: -2143737633883643663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leather_armor_180
+      rect:
+        serializedVersion: 2
+        x: 2600
+        y: 284
+        width: 38
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 753fc396995aba370800000000000000
+      internalID: 8334937613693416279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leather_armor_181
+      rect:
+        serializedVersion: 2
+        x: 2727
+        y: 283
+        width: 40
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4fdaedaea1f3f200800000000000000
+      internalID: 212779339960999756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leather_armor_182
+      rect:
+        serializedVersion: 2
+        x: 2860
+        y: 281
+        width: 36
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e7a774765d875e80800000000000000
+      internalID: -8189921994889254943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leather_armor_183
+      rect:
+        serializedVersion: 2
+        x: 2987
+        y: 278
+        width: 37
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce321e1f579f98170800000000000000
+      internalID: 8181344483059770348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leather_armor_184
+      rect:
+        serializedVersion: 2
+        x: 3118
+        y: 284
+        width: 48
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 786f26f38d2750b80800000000000000
+      internalID: -8429204854452062585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leather_armor_185
+      rect:
+        serializedVersion: 2
+        x: 3247
+        y: 283
+        width: 53
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 289fa369110513f30800000000000000
+      internalID: 4553508734713395586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leather_armor_186
+      rect:
+        serializedVersion: 2
+        x: 3373
+        y: 284
+        width: 55
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2cbf17ad1903a9210800000000000000
+      internalID: 1340437242089438146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leather_armor_187
+      rect:
+        serializedVersion: 2
+        x: 3498
+        y: 284
+        width: 58
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d9f7490aabbaf0b0800000000000000
+      internalID: -5694032439882024496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leather_armor_188
+      rect:
+        serializedVersion: 2
+        x: 3630
+        y: 284
+        width: 45
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e703e97e0c187c860800000000000000
+      internalID: 7550145965829533822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leather_armor_189
+      rect:
+        serializedVersion: 2
+        x: 3758
+        y: 285
+        width: 48
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb539ce9af2c94d90800000000000000
+      internalID: -7112939754793388612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leather_armor_190
+      rect:
+        serializedVersion: 2
+        x: 3882
+        y: 285
+        width: 54
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 944f57dec6b02c3b0800000000000000
+      internalID: -5493816032970279863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leather_armor_191
+      rect:
+        serializedVersion: 2
+        x: 4009
+        y: 284
+        width: 48
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a460a3224144d4b0800000000000000
+      internalID: -5416632699498503000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leather_armor_192
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 151
+        width: 37
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76fe35478bdc0fbb0800000000000000
+      internalID: -4904193802097135769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leather_armor_193
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 151
+        width: 38
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97086e383b0e50bc0800000000000000
+      internalID: -3817398047509938055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leather_armor_194
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 151
+        width: 38
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd4c945871ed0c800800000000000000
+      internalID: 630748140433687772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leather_armor_195
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 151
+        width: 37
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b02784acc8db8c10800000000000000
+      internalID: 2056976028270010544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leather_armor_196
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 161
+        width: 34
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6553b31855f857b0800000000000000
+      internalID: -5235164808181754518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leather_armor_197
+      rect:
+        serializedVersion: 2
+        x: 691
+        y: 162
+        width: 34
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8068cac8b15e16f90800000000000000
+      internalID: -6962031642451081720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leather_armor_198
+      rect:
+        serializedVersion: 2
+        x: 821
+        y: 151
+        width: 31
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72bf0263c794134b0800000000000000
+      internalID: -5462504075190797529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leather_armor_199
+      rect:
+        serializedVersion: 2
+        x: 949
+        y: 155
+        width: 31
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b55953d703582c10800000000000000
+      internalID: 2028962925206132153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leather_armor_200
+      rect:
+        serializedVersion: 2
+        x: 1077
+        y: 161
+        width: 32
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53692c78f2dfaf7b0800000000000000
+      internalID: -5189557240008108491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leather_armor_201
+      rect:
+        serializedVersion: 2
+        x: 1205
+        y: 161
+        width: 32
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e57df8cad2f241a0800000000000000
+      internalID: -6826627063651404313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leather_armor_202
+      rect:
+        serializedVersion: 2
+        x: 1333
+        y: 151
+        width: 32
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b60c666a4050311c0800000000000000
+      internalID: -4534274882302197653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leather_armor_203
+      rect:
+        serializedVersion: 2
+        x: 1460
+        y: 156
+        width: 33
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87e59ab6678605db0800000000000000
+      internalID: -4805225944582627720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leather_armor_204
+      rect:
+        serializedVersion: 2
+        x: 1586
+        y: 151
+        width: 37
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2788665982a0e08e0800000000000000
+      internalID: -1725430437814826894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leather_armor_205
+      rect:
+        serializedVersion: 2
+        x: 1714
+        y: 151
+        width: 38
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0a1a6adc862199e0800000000000000
+      internalID: -1616468404847633910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leather_armor_206
+      rect:
+        serializedVersion: 2
+        x: 1845
+        y: 151
+        width: 32
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 061e9db9f6810bf80800000000000000
+      internalID: -8092941662749597344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leather_armor_207
+      rect:
+        serializedVersion: 2
+        x: 1971
+        y: 151
+        width: 31
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b5d52f91f35fe7e0800000000000000
+      internalID: -1734075034292070986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leather_armor_208
+      rect:
+        serializedVersion: 2
+        x: 2095
+        y: 152
+        width: 35
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1dd48facddc29c1c0800000000000000
+      internalID: -4483002622965953071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leather_armor_209
+      rect:
+        serializedVersion: 2
+        x: 2224
+        y: 152
+        width: 34
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7c833fef102c7640800000000000000
+      internalID: 5078969801296284794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leather_armor_210
+      rect:
+        serializedVersion: 2
+        x: 2353
+        y: 152
+        width: 32
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc5444e8383335380800000000000000
+      internalID: -8983780191553436212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leather_armor_211
+      rect:
+        serializedVersion: 2
+        x: 2483
+        y: 151
+        width: 28
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e57fd2de90ed54eb0800000000000000
+      internalID: -4736135298894923938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leather_armor_212
+      rect:
+        serializedVersion: 2
+        x: 2608
+        y: 153
+        width: 27
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a3a9b85824cd3620800000000000000
+      internalID: 2755574224586908578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leather_armor_213
+      rect:
+        serializedVersion: 2
+        x: 2736
+        y: 154
+        width: 26
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 133e8b45009b54e30800000000000000
+      internalID: 4487196014817108785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leather_armor_214
+      rect:
+        serializedVersion: 2
+        x: 2859
+        y: 151
+        width: 43
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb248808d7919ad70800000000000000
+      internalID: 9054796552623112891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leather_armor_215
+      rect:
+        serializedVersion: 2
+        x: 2985
+        y: 149
+        width: 50
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11f8741b5c3188960800000000000000
+      internalID: 7604349710618824465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leather_armor_216
+      rect:
+        serializedVersion: 2
+        x: 3113
+        y: 151
+        width: 45
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a008ab9a603805900800000000000000
+      internalID: 671180409118818314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leather_armor_217
+      rect:
+        serializedVersion: 2
+        x: 3243
+        y: 151
+        width: 48
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 276172b9efe8a7420800000000000000
+      internalID: 2628570556699973234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leather_armor_218
+      rect:
+        serializedVersion: 2
+        x: 3371
+        y: 151
+        width: 53
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acea50861a685f150800000000000000
+      internalID: 5905774514159333066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leather_armor_219
+      rect:
+        serializedVersion: 2
+        x: 3501
+        y: 151
+        width: 53
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d18cedc2a36e223d0800000000000000
+      internalID: -3232768444963305443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leather_armor_220
+      rect:
+        serializedVersion: 2
+        x: 3637
+        y: 153
+        width: 32
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b64542a63282d68e0800000000000000
+      internalID: -1698657351879076757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leather_armor_221
+      rect:
+        serializedVersion: 2
+        x: 3763
+        y: 153
+        width: 33
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c26c24265070bc5c0800000000000000
+      internalID: -4194250908260710868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leather_armor_222
+      rect:
+        serializedVersion: 2
+        x: 3885
+        y: 153
+        width: 39
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b2b93d1b347a3b50800000000000000
+      internalID: 6573694403342873266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leather_armor_223
+      rect:
+        serializedVersion: 2
+        x: 4010
+        y: 153
+        width: 42
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07bade6070fc11970800000000000000
+      internalID: 8723981582281321328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leather_armor_224
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 23
+        width: 29
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02feb65eb4b1e20e0800000000000000
+      internalID: -2292865147499450592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leather_armor_225
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 23
+        width: 28
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d0dac43141810d10800000000000000
+      internalID: 2090093819135185104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leather_armor_226
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 23
+        width: 29
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db7b9d1ace0ebc5a0800000000000000
+      internalID: -6499854330246875203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leather_armor_227
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 23
+        width: 29
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0f24892639917cd0800000000000000
+      internalID: -2562098255093289204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leather_armor_228
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 31
+        width: 32
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6862c6aeab6f8ad0800000000000000
+      internalID: -2697819253905397654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leather_armor_229
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 32
+        width: 32
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97100a6bcfd0b0df0800000000000000
+      internalID: -213061178323107463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leather_armor_230
+      rect:
+        serializedVersion: 2
+        x: 817
+        y: 26
+        width: 46
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9925a4a3a147ad2d0800000000000000
+      internalID: -3253160124825840999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leather_armor_231
+      rect:
+        serializedVersion: 2
+        x: 949
+        y: 29
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5332af68658a3d6c0800000000000000
+      internalID: -4119764144528678091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leather_armor_232
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 34
+        width: 33
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e56aaf689a3932a0800000000000000
+      internalID: -6757305339509840414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leather_armor_233
+      rect:
+        serializedVersion: 2
+        x: 1203
+        y: 31
+        width: 36
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d75dbb288c94e280800000000000000
+      internalID: -9014908445425575981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leather_armor_234
+      rect:
+        serializedVersion: 2
+        x: 1328
+        y: 24
+        width: 42
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dca012697c84805c0800000000000000
+      internalID: -4249066226369623347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leather_armor_235
+      rect:
+        serializedVersion: 2
+        x: 1457
+        y: 28
+        width: 39
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4daeeed562ca5e7c0800000000000000
+      internalID: -4042635809710478636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leather_armor_236
+      rect:
+        serializedVersion: 2
+        x: 1585
+        y: 23
+        width: 31
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55c9faebcd92dd9a0800000000000000
+      internalID: -6206758683377951659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leather_armor_237
+      rect:
+        serializedVersion: 2
+        x: 1705
+        y: 22
+        width: 40
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d653c768365327c80800000000000000
+      internalID: -8326534059480304275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leather_armor_238
+      rect:
+        serializedVersion: 2
+        x: 1831
+        y: 23
+        width: 47
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f03e7f0fc5172a1f0800000000000000
+      internalID: -1035140320348085489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leather_armor_239
+      rect:
+        serializedVersion: 2
+        x: 1967
+        y: 23
+        width: 37
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23f01603b193ab6e0800000000000000
+      internalID: -1821080310379376846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leather_armor_240
+      rect:
+        serializedVersion: 2
+        x: 2096
+        y: 23
+        width: 32
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2948c06ed8e081ec0800000000000000
+      internalID: -3596108299842583406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leather_armor_241
+      rect:
+        serializedVersion: 2
+        x: 2224
+        y: 23
+        width: 32
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c466296294912abc0800000000000000
+      internalID: -3773425735812618676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leather_armor_242
+      rect:
+        serializedVersion: 2
+        x: 2356
+        y: 24
+        width: 26
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e329ebb75d0972b80800000000000000
+      internalID: -8419601731767332290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leather_armor_243
+      rect:
+        serializedVersion: 2
+        x: 2483
+        y: 23
+        width: 26
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: deb3ffa262fbb10b0800000000000000
+      internalID: -5756797528012014611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leather_armor_244
+      rect:
+        serializedVersion: 2
+        x: 2607
+        y: 25
+        width: 33
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9db3bee38215db4a0800000000000000
+      internalID: -6576010647594910759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leather_armor_245
+      rect:
+        serializedVersion: 2
+        x: 2736
+        y: 26
+        width: 33
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80622b8b127631640800000000000000
+      internalID: 5049493001742722568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leather_armor_246
+      rect:
+        serializedVersion: 2
+        x: 2861
+        y: 24
+        width: 47
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b8bce9e2882bcfd0800000000000000
+      internalID: -2320716640243894093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leather_armor_247
+      rect:
+        serializedVersion: 2
+        x: 2987
+        y: 23
+        width: 51
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1065d11d53c79af10800000000000000
+      internalID: 2281491256823338497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leather_armor_248
+      rect:
+        serializedVersion: 2
+        x: 3117
+        y: 22
+        width: 36
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f43c0d1e60933770800000000000000
+      internalID: 8589367716933809396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leather_armor_249
+      rect:
+        serializedVersion: 2
+        x: 3244
+        y: 23
+        width: 37
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f086d274179dee60800000000000000
+      internalID: 7993211027734298865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leather_armor_250
+      rect:
+        serializedVersion: 2
+        x: 3378
+        y: 23
+        width: 34
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3922ec0ef3942bc80800000000000000
+      internalID: -8308497823841770861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leather_armor_251
+      rect:
+        serializedVersion: 2
+        x: 3512
+        y: 23
+        width: 30
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0947f7b0084fcdba0800000000000000
+      internalID: -6062702167561636720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leather_armor_252
+      rect:
+        serializedVersion: 2
+        x: 3639
+        y: 24
+        width: 26
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6751763c5a3aa31d0800000000000000
+      internalID: -3370201438790150794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leather_armor_253
+      rect:
+        serializedVersion: 2
+        x: 3761
+        y: 24
+        width: 32
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 646f8bbbdb691ece0800000000000000
+      internalID: -1377654269356214714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leather_armor_254
+      rect:
+        serializedVersion: 2
+        x: 3890
+        y: 24
+        width: 33
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 054c2be5286708df0800000000000000
+      internalID: -180013682788219824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leather_armor_255
+      rect:
+        serializedVersion: 2
+        x: 4021
+        y: 24
+        width: 28
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e80e8e09937d29df0800000000000000
+      internalID: -174840793269739378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      leather_armor_0: -8801449190307681389
+      leather_armor_1: -374496645847497998
+      leather_armor_10: -5199631063713264226
+      leather_armor_100: 7986032388278077600
+      leather_armor_101: -2434493442498248291
+      leather_armor_102: -1072231688758203453
+      leather_armor_103: -8313049548415888750
+      leather_armor_104: 1297025929177209062
+      leather_armor_105: -4494341711424240979
+      leather_armor_106: -5077947338847776609
+      leather_armor_107: 8103755323282100668
+      leather_armor_108: -905902061834021522
+      leather_armor_109: -4019643895718406872
+      leather_armor_11: -874284879238950389
+      leather_armor_110: -3721167646056892614
+      leather_armor_111: 2287844270598388410
+      leather_armor_112: -4179869980204698087
+      leather_armor_113: -6387155487212880105
+      leather_armor_114: 8250450775094046443
+      leather_armor_115: 2992962742292346434
+      leather_armor_116: 4710876449982300632
+      leather_armor_117: 2155385400908031919
+      leather_armor_118: -2007402193684886276
+      leather_armor_119: -1387520045979829286
+      leather_armor_12: 1556041297206769021
+      leather_armor_120: 6545511858670903276
+      leather_armor_121: 828714259481715285
+      leather_armor_122: 4456527904587438723
+      leather_armor_123: -5091064834023466160
+      leather_armor_124: -4131205026050196974
+      leather_armor_125: -6529951148792721004
+      leather_armor_126: -4140892480454594420
+      leather_armor_127: -9098883777483322718
+      leather_armor_128: -9189632688886814123
+      leather_armor_129: -2457120173987592947
+      leather_armor_13: -6416524010301898706
+      leather_armor_130: 1255272510933781543
+      leather_armor_131: -5221543648486242055
+      leather_armor_132: 5921187630723893563
+      leather_armor_133: 4653140535274513803
+      leather_armor_134: -6452911861528623389
+      leather_armor_135: 2730748872564636433
+      leather_armor_136: -2049084860839071706
+      leather_armor_137: -8992934458401962446
+      leather_armor_138: -4435598978026617844
+      leather_armor_139: 3168046113918341342
+      leather_armor_14: 4632128127295400593
+      leather_armor_140: -6683734701430976244
+      leather_armor_141: -5996238257105460833
+      leather_armor_142: -4239105597375321325
+      leather_armor_143: 1279400901603932237
+      leather_armor_144: 5821230930598384400
+      leather_armor_145: -832920824829189706
+      leather_armor_146: -492267656023784017
+      leather_armor_147: 7837667794786268247
+      leather_armor_148: 2160230675504970408
+      leather_armor_149: 2534537963413221919
+      leather_armor_15: -4497214508206172376
+      leather_armor_150: 4309302469691147307
+      leather_armor_151: -2017694427391369773
+      leather_armor_152: -428714659481464259
+      leather_armor_153: 5544920269441075654
+      leather_armor_154: -7697960278061599015
+      leather_armor_155: 2235047417592936836
+      leather_armor_156: 1586377693203339290
+      leather_armor_157: 2010992829126416758
+      leather_armor_158: 6793143255503938378
+      leather_armor_159: 3907619353943690643
+      leather_armor_16: -6423740066622815139
+      leather_armor_160: 3826347619837547355
+      leather_armor_161: -803389435050086300
+      leather_armor_162: -7422731408229863417
+      leather_armor_163: -2928167778666445175
+      leather_armor_164: -5767012844375666109
+      leather_armor_165: 5781443519179933359
+      leather_armor_166: 1240370373636981570
+      leather_armor_167: 134473303037431476
+      leather_armor_168: 6952891906018468371
+      leather_armor_169: 9046059439777637893
+      leather_armor_17: -298361050098197000
+      leather_armor_170: -9119991944481610718
+      leather_armor_171: 1464235499295169431
+      leather_armor_172: 8714108067609652058
+      leather_armor_173: -9072094343169151225
+      leather_armor_174: 6143681271729766825
+      leather_armor_175: 5307859976569594414
+      leather_armor_176: 4367910659453729303
+      leather_armor_177: -2875868046194071789
+      leather_armor_178: -3209367670966135338
+      leather_armor_179: -2143737633883643663
+      leather_armor_18: -7872976923583475321
+      leather_armor_180: 8334937613693416279
+      leather_armor_181: 212779339960999756
+      leather_armor_182: -8189921994889254943
+      leather_armor_183: 8181344483059770348
+      leather_armor_184: -8429204854452062585
+      leather_armor_185: 4553508734713395586
+      leather_armor_186: 1340437242089438146
+      leather_armor_187: -5694032439882024496
+      leather_armor_188: 7550145965829533822
+      leather_armor_189: -7112939754793388612
+      leather_armor_19: -2414150064756597333
+      leather_armor_190: -5493816032970279863
+      leather_armor_191: -5416632699498503000
+      leather_armor_192: -4904193802097135769
+      leather_armor_193: -3817398047509938055
+      leather_armor_194: 630748140433687772
+      leather_armor_195: 2056976028270010544
+      leather_armor_196: -5235164808181754518
+      leather_armor_197: -6962031642451081720
+      leather_armor_198: -5462504075190797529
+      leather_armor_199: 2028962925206132153
+      leather_armor_2: -3076802953487412943
+      leather_armor_20: -8555086403257658690
+      leather_armor_200: -5189557240008108491
+      leather_armor_201: -6826627063651404313
+      leather_armor_202: -4534274882302197653
+      leather_armor_203: -4805225944582627720
+      leather_armor_204: -1725430437814826894
+      leather_armor_205: -1616468404847633910
+      leather_armor_206: -8092941662749597344
+      leather_armor_207: -1734075034292070986
+      leather_armor_208: -4483002622965953071
+      leather_armor_209: 5078969801296284794
+      leather_armor_21: -729606451510353274
+      leather_armor_210: -8983780191553436212
+      leather_armor_211: -4736135298894923938
+      leather_armor_212: 2755574224586908578
+      leather_armor_213: 4487196014817108785
+      leather_armor_214: 9054796552623112891
+      leather_armor_215: 7604349710618824465
+      leather_armor_216: 671180409118818314
+      leather_armor_217: 2628570556699973234
+      leather_armor_218: 5905774514159333066
+      leather_armor_219: -3232768444963305443
+      leather_armor_22: -7229814140314286878
+      leather_armor_220: -1698657351879076757
+      leather_armor_221: -4194250908260710868
+      leather_armor_222: 6573694403342873266
+      leather_armor_223: 8723981582281321328
+      leather_armor_224: -2292865147499450592
+      leather_armor_225: 2090093819135185104
+      leather_armor_226: -6499854330246875203
+      leather_armor_227: -2562098255093289204
+      leather_armor_228: -2697819253905397654
+      leather_armor_229: -213061178323107463
+      leather_armor_23: -6403901851174536869
+      leather_armor_230: -3253160124825840999
+      leather_armor_231: -4119764144528678091
+      leather_armor_232: -6757305339509840414
+      leather_armor_233: -9014908445425575981
+      leather_armor_234: -4249066226369623347
+      leather_armor_235: -4042635809710478636
+      leather_armor_236: -6206758683377951659
+      leather_armor_237: -8326534059480304275
+      leather_armor_238: -1035140320348085489
+      leather_armor_239: -1821080310379376846
+      leather_armor_24: 6077297293161603824
+      leather_armor_240: -3596108299842583406
+      leather_armor_241: -3773425735812618676
+      leather_armor_242: -8419601731767332290
+      leather_armor_243: -5756797528012014611
+      leather_armor_244: -6576010647594910759
+      leather_armor_245: 5049493001742722568
+      leather_armor_246: -2320716640243894093
+      leather_armor_247: 2281491256823338497
+      leather_armor_248: 8589367716933809396
+      leather_armor_249: 7993211027734298865
+      leather_armor_25: 7576166870301031239
+      leather_armor_250: -8308497823841770861
+      leather_armor_251: -6062702167561636720
+      leather_armor_252: -3370201438790150794
+      leather_armor_253: -1377654269356214714
+      leather_armor_254: -180013682788219824
+      leather_armor_255: -174840793269739378
+      leather_armor_26: 2877805242938277853
+      leather_armor_27: 7793534125807949539
+      leather_armor_28: 1411364938497378731
+      leather_armor_29: 1823602000962725402
+      leather_armor_3: -818550221027701691
+      leather_armor_30: 4113761281545041665
+      leather_armor_31: 5755486776222049914
+      leather_armor_32: 2378787183730430603
+      leather_armor_33: 5818732695423684779
+      leather_armor_34: -1656916284440617179
+      leather_armor_35: 3529832578654680897
+      leather_armor_36: -3909121303074118576
+      leather_armor_37: 5053984624442663120
+      leather_armor_38: 6465866201792469624
+      leather_armor_39: -157392098312248482
+      leather_armor_4: -2178048501587673010
+      leather_armor_40: -2216630996706931684
+      leather_armor_41: -1423577840802230585
+      leather_armor_42: 4299858034478788211
+      leather_armor_43: -6953984583165493257
+      leather_armor_44: -4160741095502350839
+      leather_armor_45: -5923879283865204143
+      leather_armor_46: 7813480825692244711
+      leather_armor_47: 5097127101424751923
+      leather_armor_48: -734542155598484958
+      leather_armor_49: -5826068083897696853
+      leather_armor_5: -440848764488781309
+      leather_armor_50: -2569703702011236245
+      leather_armor_51: -7965482099974006951
+      leather_armor_52: -3544030583984117017
+      leather_armor_53: -2943324589823554047
+      leather_armor_54: 1956653090421592213
+      leather_armor_55: 240240929773702268
+      leather_armor_56: -6913091410086029094
+      leather_armor_57: -1229638548828492559
+      leather_armor_58: 3572402749475444058
+      leather_armor_59: -8983407493160870251
+      leather_armor_6: 7904068241211634400
+      leather_armor_60: 6520740785505371029
+      leather_armor_61: -8818759374443389837
+      leather_armor_62: -5570564837311952819
+      leather_armor_63: -4341150967939113410
+      leather_armor_64: 3405971158635175148
+      leather_armor_65: 7570499153522474446
+      leather_armor_66: 5092078083328717376
+      leather_armor_67: 1898911298302898058
+      leather_armor_68: 1923584338345506931
+      leather_armor_69: 6442328583698975494
+      leather_armor_7: -7368586804650071249
+      leather_armor_70: -2545978920733254167
+      leather_armor_71: -9124607425194154111
+      leather_armor_72: 9115124882664041494
+      leather_armor_73: -5834740794042977583
+      leather_armor_74: -4773424581618324815
+      leather_armor_75: -6067536417358924440
+      leather_armor_76: -7995628804315013856
+      leather_armor_77: -8805446932349933254
+      leather_armor_78: 21939268335264342
+      leather_armor_79: -247894440478937721
+      leather_armor_8: -3290513454755267460
+      leather_armor_80: 6804884573177348071
+      leather_armor_81: 6212520885261943855
+      leather_armor_82: 9112151639859267269
+      leather_armor_83: -3322678499191863252
+      leather_armor_84: 8903600652406301014
+      leather_armor_85: -4455583310866130821
+      leather_armor_86: 6466559542138490207
+      leather_armor_87: 109540221719268185
+      leather_armor_88: 6272749289625667377
+      leather_armor_89: -5440264464400225423
+      leather_armor_9: 2010009222836179031
+      leather_armor_90: 8452588513380377559
+      leather_armor_91: -74273175247169190
+      leather_armor_92: -1720855699218613740
+      leather_armor_93: -3399010961082149477
+      leather_armor_94: -1300939977174753234
+      leather_armor_95: 3977867858206955391
+      leather_armor_96: 3535948183536160966
+      leather_armor_97: -6279056490810908151
+      leather_armor_98: 7773944131171878926
+      leather_armor_99: 634568414219353132
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
