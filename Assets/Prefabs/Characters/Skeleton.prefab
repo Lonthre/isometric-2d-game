@@ -12,8 +12,9 @@ GameObject:
   - component: {fileID: 2678489551888062843}
   - component: {fileID: 6889264506554975596}
   - component: {fileID: 5554959801307994156}
+  - component: {fileID: 5349087040345053770}
   m_Layer: 8
-  m_Name: Enemy
+  m_Name: Skeleton
   m_TagString: Player
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -112,6 +113,20 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Isometric2DGame.Combat.Health
   _maxHealth: 30
+--- !u!114 &5349087040345053770
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1030302080215495483}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 69fbbd47a9e73f24b955e29571b0406c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::Isometric2DGame.Enemy.EnemyController
+  _config: {fileID: 11400000, guid: 4f06781accb221b459bcba693f5b07c6, type: 2}
+  _patrolPoints: []
 --- !u!1 &1774849863106405359
 GameObject:
   m_ObjectHideFlags: 0
