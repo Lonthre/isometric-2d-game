@@ -417,7 +417,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 1030302080215495483, guid: 6a92ebfbd50560b499cbbe6e8c648723, type: 3}
       propertyPath: m_Name
-      value: Enemy
+      value: Skeleton
       objectReference: {fileID: 0}
     - target: {fileID: 5349087040345053770, guid: 6a92ebfbd50560b499cbbe6e8c648723, type: 3}
       propertyPath: _patrolPoints.Array.size
@@ -494,7 +494,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 1030302080215495483, guid: 6a92ebfbd50560b499cbbe6e8c648723, type: 3}
       propertyPath: m_Name
-      value: Enemy (1)
+      value: Skeleton 1
       objectReference: {fileID: 0}
     - target: {fileID: 5349087040345053770, guid: 6a92ebfbd50560b499cbbe6e8c648723, type: 3}
       propertyPath: _patrolPoints.Array.size
@@ -70263,7 +70263,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 1030302080215495483, guid: 6a92ebfbd50560b499cbbe6e8c648723, type: 3}
       propertyPath: m_Name
-      value: Enemy (2)
+      value: Skeleton 2
       objectReference: {fileID: 0}
     - target: {fileID: 5349087040345053770, guid: 6a92ebfbd50560b499cbbe6e8c648723, type: 3}
       propertyPath: _patrolPoints.Array.size
