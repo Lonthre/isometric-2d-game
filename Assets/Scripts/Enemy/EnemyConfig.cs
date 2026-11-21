@@ -10,12 +10,12 @@ namespace Isometric2DGame.Enemy {
         [Tooltip(
             "Distance at which the enemy loses the player. Keep larger than Detect Range for smooth state transitions.")]
         [SerializeField, Min(0f)]
-        private float _loseRange = 7f;
+        private float _loseSightRange = 7f;
 
-        [Header("Combat")] [SerializeField, Min(0f)]
-        private float _attackRange = 1f;
+        [Header("Combat")] [SerializeField, Min(0)]
+        private int _damage = 10;
 
-        [SerializeField, Min(0)] private int _damage = 10;
+        [SerializeField, Min(0f)] private float _attackRange = 1f;
 
         [SerializeField, Min(0f)] private float _attackCooldown = 1f;
 
@@ -31,9 +31,9 @@ namespace Isometric2DGame.Enemy {
         private float _patrolPointTolerance = 0.1f;
 
         public float DetectRange => _detectRange;
-        public float LoseRange => _loseRange;
-        public float AttackRange => _attackRange;
+        public float LoseSightRange => _loseSightRange;
         public int Damage => _damage;
+        public float AttackRange => _attackRange;
         public float AttackCooldown => _attackCooldown;
         public float PatrolSpeed => _patrolSpeed;
         public float ChaseSpeed => _chaseSpeed;
