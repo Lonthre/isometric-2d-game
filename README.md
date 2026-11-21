@@ -31,7 +31,7 @@ This small game was developed in 5 days for a programming trial in an internship
 
 - [x] Task 1: Project setup and GitHub integration
 - [x] Task 2: Isometric player movement and input system
-- [ ] Task 3: Enemy AI state machine
+- [x] Task 3: Enemy AI state machine
 - [ ] Task 4: Specialization (<Combat / Inventory / Dialogue>)
 
 *TODO: explain what was implemented and designed*
