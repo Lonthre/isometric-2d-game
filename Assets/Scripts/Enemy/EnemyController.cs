@@ -69,7 +69,7 @@ namespace Isometric2DGame.Enemy {
         }
 
         public void PerformAttack() {
-            Debug.Log("Attacking");
+            Debug.Log("Enemy Attacking");
 
             Vector2 direction = (Target.position - transform.position).normalized;
 
