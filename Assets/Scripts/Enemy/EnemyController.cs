@@ -1,5 +1,4 @@
 using UnityEngine;
-
 using Isometric2DGame.Combat;
 using Isometric2DGame.Core;
 
@@ -50,8 +49,11 @@ namespace Isometric2DGame.Enemy {
         }
 
         public bool CanSeePlayer(float range) {
-            var collider = Physics2D.OverlapCircle(transform.position, range, _playerMask);
-            Target = collider != null ? collider.transform : null;
+            Collider2D hit = Physics2D.OverlapCircle(transform.position, range, _playerMask);
+            Target = hit != null && hit.attachedRigidbody != null
+                ? hit.attachedRigidbody.transform
+                : null;
+
             return Target != null;
         }
 
@@ -69,8 +71,6 @@ namespace Isometric2DGame.Enemy {
         }
 
         public void PerformAttack() {
-            Debug.Log("Enemy Attacking");
-
             Vector2 direction = (Target.position - transform.position).normalized;
 
             if (Target.TryGetComponent<IDamageable>(out var damageable)) {

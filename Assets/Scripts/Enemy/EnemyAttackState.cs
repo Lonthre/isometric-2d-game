@@ -1,5 +1,4 @@
 using Isometric2DGame.Core;
-
 using UnityEngine;
 
 
@@ -35,14 +34,6 @@ namespace Isometric2DGame.Enemy {
                 _cooldownTimer = Entity.Data.AttackCooldown;
             }
         }
-
-        // private void PerformAttack() {
-        //     Debug.Log("Attacking");
-        //
-        //     if (Entity.Target.TryGetComponent<IDamageable>(out var damageable)) {
-        //         damageable.TakeDamage(Entity.Config.Damage);
-        //     }
-        // }
     }
 
 }
