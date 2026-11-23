@@ -1,35 +1,38 @@
 using System;
 using UnityEngine;
 
+
 namespace Isometric2DGame.Combat {
+
     /// <summary>Keeps track of hit points and triggers Damaged and Died events.</summary>
     public class Health : MonoBehaviour, IDamageable {
-        [SerializeField, Min(1)] private int _maxHealth = 100;
+        [SerializeField] [Min(1)] private int _maxHealth = 100;
 
-        private int _current;
-
-        public int Current => _current;
+        public int Current { get; private set; }
         public int Max => _maxHealth;
-        public bool IsDead => _current <= 0;
+        public bool IsDead => Current <= 0;
 
-        public event Action<int> Damaged;
+        public event Action<int, int> Changed;
+        public event Action<HitInfo> Damaged;
         public event Action Died;
 
         private void Awake() {
-            _current = _maxHealth;
+            Current = _maxHealth;
         }
 
-        public void TakeDamage(int amount) {
+        public void TakeDamage(HitInfo hit) {
             if (IsDead) {
                 return;
             }
 
-            _current = Mathf.Max(0, _current - amount);
-            Damaged?.Invoke(amount);
+            Current = Mathf.Max(0, Current - hit.Damage);
+            Damaged?.Invoke(hit);
+            Changed?.Invoke(Current, _maxHealth);
 
             if (IsDead) {
                 Died?.Invoke();
             }
         }
     }
+
 }

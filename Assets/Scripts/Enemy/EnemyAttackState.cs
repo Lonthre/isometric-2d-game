@@ -1,7 +1,10 @@
-using UnityEngine;
 using Isometric2DGame.Core;
 
+using UnityEngine;
+
+
 namespace Isometric2DGame.Enemy {
+
     public class EnemyAttackState : State<EnemyController> {
         private const float ExitRangeMultiplier = 1.1f;
 
@@ -15,12 +18,12 @@ namespace Isometric2DGame.Enemy {
         }
 
         public override void Tick() {
-            if (!Entity.CanSeePlayer(Entity.Config.LoseSightRange)) {
+            if (!Entity.CanSeePlayer(Entity.Data.LoseSightRange)) {
                 Entity.ChangeState(Entity.Idle);
                 return;
             }
 
-            if (Entity.DistanceToTarget() > Entity.Config.AttackRange * ExitRangeMultiplier) {
+            if (Entity.DistanceToTarget() > Entity.Data.AttackRange * ExitRangeMultiplier) {
                 Entity.ChangeState(Entity.Chase);
                 return;
             }
@@ -29,7 +32,7 @@ namespace Isometric2DGame.Enemy {
 
             if (_cooldownTimer <= 0f) {
                 Entity.PerformAttack();
-                _cooldownTimer = Entity.Config.AttackCooldown;
+                _cooldownTimer = Entity.Data.AttackCooldown;
             }
         }
 
@@ -41,4 +44,5 @@ namespace Isometric2DGame.Enemy {
         //     }
         // }
     }
+
 }

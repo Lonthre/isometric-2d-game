@@ -1,18 +1,21 @@
-using Isometric2DGame.Combat;
 using UnityEngine;
+
+using Isometric2DGame.Combat;
 using Isometric2DGame.Core;
 
+
 namespace Isometric2DGame.Enemy {
-    /// <summary>Manages the enemy AI behaviour through a state machine and an enemy stats config.</summary>
+
+    /// <summary>Manages the enemy AI behaviour through a state machine and an enemy stats data.</summary>
     public class EnemyController : MonoBehaviour {
-        [SerializeField] private EnemyConfig _config;
+        [SerializeField] private EnemyData data;
         [SerializeField] private Transform[] _patrolPoints;
 
-        private readonly StateMachine<EnemyController> _stateMachine = new StateMachine<EnemyController>();
-        private Rigidbody2D _rigidbody;
+        private readonly StateMachine<EnemyController> _stateMachine = new();
         private LayerMask _playerMask;
+        private Rigidbody2D _rigidbody;
 
-        public EnemyConfig Config => _config;
+        public EnemyData Data => data;
         public Transform[] PatrolPoints => _patrolPoints;
         public Transform Target { get; private set; }
 
@@ -30,37 +33,54 @@ namespace Isometric2DGame.Enemy {
             Attack = new EnemyAttackState(this);
         }
 
-        private void Start() => _stateMachine.ChangeState(Idle);
-        private void Update() => _stateMachine.Tick();
-        private void FixedUpdate() => _stateMachine.FixedTick();
+        private void Start() {
+            _stateMachine.ChangeState(Idle);
+        }
 
-        public void ChangeState(State<EnemyController> next) => _stateMachine.ChangeState(next);
+        private void Update() {
+            _stateMachine.Tick();
+        }
+
+        private void FixedUpdate() {
+            _stateMachine.FixedTick();
+        }
+
+        public void ChangeState(State<EnemyController> next) {
+            _stateMachine.ChangeState(next);
+        }
 
         public bool CanSeePlayer(float range) {
-            Collider2D collider = Physics2D.OverlapCircle(transform.position, range, _playerMask);
+            var collider = Physics2D.OverlapCircle(transform.position, range, _playerMask);
             Target = collider != null ? collider.transform : null;
             return Target != null;
         }
 
-        public float DistanceToTarget() => Vector2.Distance(transform.position, Target.position);
+        public float DistanceToTarget() {
+            return Vector2.Distance(transform.position, Target.position);
+        }
 
         public void MoveToward(Vector2 point, float speed) {
-            Vector2 direction = (point - _rigidbody.position).normalized;
+            var direction = (point - _rigidbody.position).normalized;
             _rigidbody.linearVelocity = direction * speed;
         }
 
         public void EngageTarget() {
-            ChangeState(DistanceToTarget() <= _config.AttackRange ? Attack : Chase);
+            ChangeState(DistanceToTarget() <= data.AttackRange ? Attack : Chase);
         }
 
         public void PerformAttack() {
-            Debug.Log("Attacking");
+            Debug.Log("Enemy Attacking");
+
+            Vector2 direction = (Target.position - transform.position).normalized;
 
             if (Target.TryGetComponent<IDamageable>(out var damageable)) {
-                damageable.TakeDamage(Config.Damage);
+                damageable.TakeDamage(new HitInfo(Data.Damage, direction, gameObject));
             }
         }
 
-        public void Stop() => _rigidbody.linearVelocity = Vector2.zero;
+        public void Stop() {
+            _rigidbody.linearVelocity = Vector2.zero;
+        }
     }
+
 }

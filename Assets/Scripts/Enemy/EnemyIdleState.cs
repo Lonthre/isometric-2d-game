@@ -1,7 +1,10 @@
-using UnityEngine;
 using Isometric2DGame.Core;
 
+using UnityEngine;
+
+
 namespace Isometric2DGame.Enemy {
+
     public class EnemyIdleState : State<EnemyController> {
         private float _timer;
 
@@ -13,20 +16,17 @@ namespace Isometric2DGame.Enemy {
         }
 
         public override void Tick() {
-            if (Entity.CanSeePlayer(Entity.Config.DetectRange)) {
+            if (Entity.CanSeePlayer(Entity.Data.DetectRange)) {
                 Entity.EngageTarget();
                 return;
             }
 
-            if (Entity.PatrolPoints.Length < 2) {
-                return;
-            }
+            if (Entity.PatrolPoints.Length < 2) return;
 
             _timer += Time.deltaTime;
 
-            if (_timer >= Entity.Config.IdleTime) {
-                Entity.ChangeState(Entity.Patrol);
-            }
+            if (_timer >= Entity.Data.IdleTime) Entity.ChangeState(Entity.Patrol);
         }
     }
+
 }
