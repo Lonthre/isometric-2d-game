@@ -6,7 +6,7 @@ using Isometric2DGame.Core;
 
 namespace Isometric2DGame.Enemy {
 
-    /// <summary>Manages the enemy AI behaviour through a state machine and an enemy stats config.</summary>
+    /// <summary>Manages the enemy AI behaviour through a state machine and an enemy stats data.</summary>
     public class EnemyController : MonoBehaviour {
         [SerializeField] private EnemyData data;
         [SerializeField] private Transform[] _patrolPoints;
@@ -71,7 +71,11 @@ namespace Isometric2DGame.Enemy {
         public void PerformAttack() {
             Debug.Log("Attacking");
 
-            if (Target.TryGetComponent<IDamageable>(out var damageable)) damageable.TakeDamage(Data.Damage);
+            Vector2 direction = (Target.position - transform.position).normalized;
+
+            if (Target.TryGetComponent<IDamageable>(out var damageable)) {
+                damageable.TakeDamage(new HitInfo(Data.Damage, direction, gameObject));
+            }
         }
 
         public void Stop() {
