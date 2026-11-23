@@ -14,7 +14,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::Isometric2DGame.Combat.WeaponData
   _damage: 10
   _windupTime: 0.1
-  _activeTime: 0.1
-  _recoveryTime: 0.2
+  _activeTime: 0.2
+  _recoveryTime: 0.5
   _cooldown: 0
-  _inputBufferTime: 0.15
+  _inputBufferTime: 0.2
