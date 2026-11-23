@@ -114,6 +114,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Isometric2DGame.Combat.Health
   _maxHealth: 30
+  _hitFlashColor: {r: 1, g: 0, b: 0, a: 1}
+  _sprites:
+  - {fileID: 7760831810365935915}
 --- !u!114 &5349087040345053770
 MonoBehaviour:
   m_ObjectHideFlags: 0
