@@ -7,6 +7,8 @@ namespace Isometric2DGame.Combat {
     /// <summary>Trigger capsule that is switched on during a swing and damages each target at most once.</summary>
     [RequireComponent(typeof(Collider2D))]
     public class Hitbox : MonoBehaviour {
+        [SerializeField] private Transform _pivot;
+
         private Collider2D _collider;
         private int _damage;
         private Vector2 _direction;
@@ -22,14 +24,11 @@ namespace Isometric2DGame.Combat {
             Deactivate();
         }
 
-        public void Activate(int damage, Vector2 direction, float offset, GameObject source) {
+        public void Activate(int damage, Vector2 direction, GameObject source) {
             _damage = damage;
             _direction = direction;
             _source = source;
-
-            transform.localPosition = direction * offset;
-            transform.right = direction;
-
+            _pivot.right = direction;
             _collider.enabled = true;
         }
 
