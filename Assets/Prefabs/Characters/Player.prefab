@@ -93,6 +93,7 @@ GameObject:
   - component: {fileID: 569516729877221735}
   - component: {fileID: 2678489551888062843}
   - component: {fileID: 6889264506554975596}
+  - component: {fileID: 8366239376028649957}
   - component: {fileID: 2772947880470675730}
   - component: {fileID: 6310863704680144737}
   - component: {fileID: 854270138171880420}
@@ -185,6 +186,20 @@ CapsuleCollider2D:
   m_Offset: {x: -0.000001604137, y: 0.04352509}
   m_Size: {x: 0.9106034, y: 0.28892884}
   m_Direction: 1
+--- !u!114 &8366239376028649957
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1030302080215495483}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 029ff3ee6fad26f4694ae8def8818324, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::Isometric2DGame.Player.PlayerController
+  _weapon: {fileID: 963192828115180419}
+  _aimOrigin: {fileID: 5742818997870839933}
 --- !u!114 &2772947880470675730
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -658,6 +673,22 @@ PrefabInstance:
     m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 2550398c854b84149ae002b10803d7fb, type: 3}
+--- !u!114 &963192828115180419 stripped
+MonoBehaviour:
+  m_CorrespondingSourceObject: {fileID: 1420910649302253907, guid: 2550398c854b84149ae002b10803d7fb, type: 3}
+  m_PrefabInstance: {fileID: 2226436774169238224}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e084a6534256b204f946655421baea91, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::Isometric2DGame.Combat.MeleeWeapon
+--- !u!4 &5742818997870839933 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 5861279886136414893, guid: 2550398c854b84149ae002b10803d7fb, type: 3}
+  m_PrefabInstance: {fileID: 2226436774169238224}
+  m_PrefabAsset: {fileID: 0}
 --- !u!4 &6057662749465832931 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 5401153370872330035, guid: 2550398c854b84149ae002b10803d7fb, type: 3}
