@@ -1,3 +1,6 @@
+using UnityEngine;
+
+
 namespace Isometric2DGame.Core {
 
     /// <summary>Runs one active state at a time and handles the transition to another.</summary>
