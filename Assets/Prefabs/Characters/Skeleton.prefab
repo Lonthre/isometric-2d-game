@@ -13,6 +13,7 @@ GameObject:
   - component: {fileID: 6889264506554975596}
   - component: {fileID: 5554959801307994156}
   - component: {fileID: 5349087040345053770}
+  - component: {fileID: 1642529355622313359}
   m_Layer: 8
   m_Name: Skeleton
   m_TagString: Player
@@ -113,7 +114,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 13be3e6c30d084e4f807a9e028bbc01d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Isometric2DGame.Combat.Health
-  _maxHealth: 30
+  _maxHealth: 20
+  _hitFlashColor: {r: 1, g: 0, b: 0, a: 1}
+  _sprites:
+  - {fileID: 7760831810365935915}
 --- !u!114 &5349087040345053770
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -128,6 +132,18 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::Isometric2DGame.Enemy.EnemyController
   data: {fileID: 11400000, guid: 4f06781accb221b459bcba693f5b07c6, type: 2}
   _patrolPoints: []
+--- !u!114 &1642529355622313359
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1030302080215495483}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d8eeef08f8b41b14698ba335e45feb70, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::Isometric2DGame.Enemy.EnemyDeath
 --- !u!1 &1715010968048575429
 GameObject:
   m_ObjectHideFlags: 0

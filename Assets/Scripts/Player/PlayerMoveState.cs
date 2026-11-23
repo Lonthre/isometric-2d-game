@@ -7,18 +7,14 @@ namespace Isometric2DGame.Player {
         public PlayerMoveState(PlayerController entity) : base(entity) { }
 
         public override void Tick() {
-            if (Entity.Input.HasMoveInput) {
+            if (Entity.Input.HasMoveInput)
                 Entity.SetFacingDirection(Entity.Input.MoveInput);
-            }
-            else {
+            else
                 Entity.ChangeState(Entity.Idle);
-            }
 
-            if (Entity.Input.AttackPressed || Entity.Weapon.ConsumeQueuedAttack()) {
-                if (Entity.Weapon.CanAttack) {
+            if (Entity.Input.AttackPressed || Entity.Weapon.ConsumeQueuedAttack())
+                if (Entity.Weapon.CanAttack)
                     Entity.ChangeState(Entity.Attack);
-                }
-            }
         }
 
         public override void FixedTick() {

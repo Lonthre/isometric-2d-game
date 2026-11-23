@@ -10,19 +10,20 @@ namespace Isometric2DGame.Core {
 
         /// <summary>Returns a Vector2 in radians closest to one the 8 directions.</summary>
         public static Vector2 Snap(Vector2 vector) {
-            if (vector.sqrMagnitude < 0.0001f) {
-                return Vector2.zero;
-            }
+            if (vector.sqrMagnitude < 0.0001f) return Vector2.zero;
 
-            float angle = Mathf.Atan2(vector.y, vector.x) * Mathf.Rad2Deg;
-            float snapped = Mathf.Round(angle / StepDegrees) * StepDegrees * Mathf.Deg2Rad;
+            var angle = Mathf.Atan2(vector.y, vector.x) * Mathf.Rad2Deg;
+            var snapped = Mathf.Round(angle / StepDegrees) * StepDegrees * Mathf.Deg2Rad;
             return new Vector2(Mathf.Cos(snapped), Mathf.Sin(snapped));
         }
 
-        /// <summary>Returns 0-7, with 0 = West direction to match the sprite anims sheet rows. Clockwise: W, NW, N, NE, E, SE, S, SW.</summary>
+        /// <summary>
+        ///     Returns 0-7, with 0 = West direction to match the sprite anims sheet rows. Clockwise: W, NW, N, NE, E, SE, S,
+        ///     SW.
+        /// </summary>
         public static int ToIndex(Vector2 vector) {
-            float angle = Mathf.Atan2(vector.y, vector.x) * Mathf.Rad2Deg;
-            int clockwiseFromEast = Mathf.RoundToInt(angle / StepDegrees);
+            var angle = Mathf.Atan2(vector.y, vector.x) * Mathf.Rad2Deg;
+            var clockwiseFromEast = Mathf.RoundToInt(angle / StepDegrees);
             return ((Count / 2 - clockwiseFromEast) % Count + Count) % Count;
         }
     }

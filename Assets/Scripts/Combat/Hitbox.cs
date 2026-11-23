@@ -23,6 +23,12 @@ namespace Isometric2DGame.Combat {
             Deactivate();
         }
 
+        private void OnTriggerEnter2D(Collider2D other) {
+            if (!CanHit(other, out var hurtbox)) return;
+
+            hurtbox.RegisterDamage(new HitInfo(_damage, _direction, _source));
+        }
+
         public void Activate(int damage, Vector2 direction, GameObject source) {
             _damage = damage;
             _direction = direction;
@@ -32,27 +38,13 @@ namespace Isometric2DGame.Combat {
         }
 
         public void Deactivate() {
-            if (_collider != null) {
-                _collider.enabled = false;
-            }
-        }
-
-        private void OnTriggerEnter2D(Collider2D other) {
-            if (!CanHit(other, out Hurtbox hurtbox)) {
-                return;
-            }
-
-            hurtbox.RegisterDamage(new HitInfo(_damage, _direction, _source));
+            if (_collider != null) _collider.enabled = false;
         }
 
         private bool CanHit(Collider2D other, out Hurtbox hurtbox) {
-            if (!other.TryGetComponent(out hurtbox)) {
-                return false;
-            }
+            if (!other.TryGetComponent(out hurtbox)) return false;
 
-            if (other.gameObject.layer == gameObject.layer) {
-                return false;
-            }
+            if (other.gameObject.layer == gameObject.layer) return false;
 
             return true;
         }

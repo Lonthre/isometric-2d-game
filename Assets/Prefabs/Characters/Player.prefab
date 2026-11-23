@@ -200,6 +200,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::Isometric2DGame.Player.PlayerController
   _weapon: {fileID: 963192828115180419}
   _aimOrigin: {fileID: 5742818997870839933}
+  MinAimDistanceSqr: 0.0001
 --- !u!114 &2772947880470675730
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -240,6 +241,10 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Isometric2DGame.Combat.Health
   _maxHealth: 100
+  _hitFlashColor: {r: 1, g: 0, b: 0, a: 1}
+  _sprites:
+  - {fileID: 4409681961728359452}
+  - {fileID: 7760831810365935915}
 --- !u!1 &1774849863106405359
 GameObject:
   m_ObjectHideFlags: 0

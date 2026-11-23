@@ -11,13 +11,9 @@ namespace Isometric2DGame.Player {
         }
 
         public override void Tick() {
-            if (Entity.Input.AttackPressed) {
-                Entity.ChangeState(Entity.Attack);
-            }
+            if (Entity.Input.AttackPressed) Entity.ChangeState(Entity.Attack);
 
-            if (Entity.Input.HasMoveInput) {
-                Entity.ChangeState(Entity.Move);
-            }
+            if (Entity.Input.HasMoveInput) Entity.ChangeState(Entity.Move);
         }
     }
 
