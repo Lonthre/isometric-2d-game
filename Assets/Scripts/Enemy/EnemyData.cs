@@ -4,7 +4,7 @@ using UnityEngine;
 namespace Isometric2DGame.Enemy {
 
     /// <summary>Configurable stats for an enemy type.</summary>
-    [CreateAssetMenu(fileName = "EnemyConfig", menuName = "Scriptable Objects/EnemyConfig")]
+    [CreateAssetMenu(fileName = "EnemyData", menuName = "Scriptable Objects/Enemy Data")]
     public class EnemyData : ScriptableObject {
         [Header("Detection")] [Tooltip("Distance at which the enemy notices the player.")] [SerializeField] [Min(0f)]
         private float _detectRange = 5f;
