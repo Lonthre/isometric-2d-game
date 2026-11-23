@@ -17,9 +17,7 @@ namespace Isometric2DGame.Player {
                 Attack();
             }
 
-            if (!Entity.Weapon.IsBusy) {
-                Entity.ChangeState(Entity.Idle);
-            }
+            if (!Entity.Weapon.IsBusy) Entity.ChangeState(Entity.Idle);
         }
 
         public override void FixedTick() {
@@ -27,9 +25,7 @@ namespace Isometric2DGame.Player {
         }
 
         public override void Exit() {
-            if (Entity.Weapon.IsBusy) {
-                Entity.Weapon.Cancel();
-            }
+            if (Entity.Weapon.IsBusy) Entity.Weapon.Cancel();
         }
 
         private void Attack() {

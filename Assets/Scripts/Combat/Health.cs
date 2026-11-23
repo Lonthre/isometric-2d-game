@@ -15,18 +15,12 @@ namespace Isometric2DGame.Combat {
         public int Max => _maxHealth;
         public bool IsDead => Current <= 0;
 
-        public event Action<int, int> Changed;
-        public event Action<HitInfo> Damaged;
-        public event Action Died;
-
         private void Awake() {
             Current = _maxHealth;
         }
 
         public void TakeDamage(HitInfo hit) {
-            if (IsDead) {
-                return;
-            }
+            if (IsDead) return;
 
             StartCoroutine(ApplyHitFlash());
 
@@ -34,21 +28,19 @@ namespace Isometric2DGame.Combat {
             Damaged?.Invoke(hit);
             Changed?.Invoke(Current, _maxHealth);
 
-            if (IsDead) {
-                Died?.Invoke();
-            }
+            if (IsDead) Died?.Invoke();
         }
 
+        public event Action<int, int> Changed;
+        public event Action<HitInfo> Damaged;
+        public event Action Died;
+
         private IEnumerator ApplyHitFlash() {
-            foreach (SpriteRenderer sprite in _sprites) {
-                sprite.color = _hitFlashColor;
-            }
+            foreach (var sprite in _sprites) sprite.color = _hitFlashColor;
 
             yield return new WaitForSeconds(0.25f);
 
-            foreach (SpriteRenderer sprite in _sprites) {
-                sprite.color = Color.white;
-            }
+            foreach (var sprite in _sprites) sprite.color = Color.white;
         }
     }
 

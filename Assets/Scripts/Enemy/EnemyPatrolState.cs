@@ -1,5 +1,4 @@
 using Isometric2DGame.Core;
-
 using UnityEngine;
 
 

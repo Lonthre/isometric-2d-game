@@ -12,7 +12,7 @@ namespace Isometric2DGame.Player {
         public bool AttackPressed => _actions.Player.Attack.WasPressedThisFrame();
 
         public bool HasMoveInput => MoveInput.sqrMagnitude > 0.01f;
-        
+
         private void Awake() {
             _actions = new InputActions();
         }

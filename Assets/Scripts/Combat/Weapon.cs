@@ -16,37 +16,35 @@ namespace Isometric2DGame.Combat {
         [SerializeField] protected WeaponData Data;
 
         private Vector2 _direction;
-        private float _phaseTimer;
         private float _nextAllowedTime;
+        private float _phaseTimer;
         private float _queuedUntil = float.NegativeInfinity;
 
         public Phase CurrentPhase { get; private set; }
         public bool IsBusy => CurrentPhase != Phase.Idle;
         public bool CanAttack => !IsBusy && Time.time >= _nextAllowedTime;
 
+        private void Update() {
+            if (!IsBusy) return;
+
+            _phaseTimer -= Time.deltaTime;
+
+            if (_phaseTimer <= 0f) AdvancePhase();
+        }
+
+        private void OnDisable() {
+            Cancel();
+        }
+
         public event Action<Phase> PhaseChanged;
 
         protected abstract void OnActivePhaseStart(Vector2 direction);
 
         protected virtual void OnActivePhaseEnd() { }
-        
-        private void Update() {
-            if (!IsBusy) {
-                return;
-            }
 
-            _phaseTimer -= Time.deltaTime;
-
-            if (_phaseTimer <= 0f) {
-                AdvancePhase();
-            }
-        }
-        
         /// <summary>Starts an attack along the given direction. Returns false if not ready to attack again.</summary>
         public bool TryAttack(Vector2 direction) {
-            if (!CanAttack) {
-                return false;
-            }
+            if (!CanAttack) return false;
 
             _direction = direction.normalized;
             _nextAllowedTime = Time.time + Data.Cooldown;
@@ -62,16 +60,14 @@ namespace Isometric2DGame.Combat {
 
         /// <summary>True if an attack was queued recently. The caller then fires TryAttack.</summary>
         public bool ConsumeQueuedAttack() {
-            bool queued = Time.time <= _queuedUntil;
+            var queued = Time.time <= _queuedUntil;
             _queuedUntil = float.NegativeInfinity;
             return queued;
         }
 
         /// <summary>Stops the swing immediately (for the case of death, knockback, etc.).</summary>
         public void Cancel() {
-            if (CurrentPhase == Phase.Active) {
-                OnActivePhaseEnd();
-            }
+            if (CurrentPhase == Phase.Active) OnActivePhaseEnd();
 
             _queuedUntil = float.NegativeInfinity;
             SetPhase(Phase.Idle);
@@ -86,7 +82,7 @@ namespace Isometric2DGame.Combat {
             CurrentPhase = phase;
             PhaseChanged?.Invoke(phase);
         }
-        
+
         private void AdvancePhase() {
             switch (CurrentPhase) {
                 case Phase.Windup:
@@ -103,10 +99,6 @@ namespace Isometric2DGame.Combat {
                     SetPhase(Phase.Idle);
                     break;
             }
-        }
-        
-        private void OnDisable() {
-            Cancel();
         }
     }
 
