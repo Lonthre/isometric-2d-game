@@ -1,6 +1,8 @@
 using UnityEngine;
 
+
 namespace Isometric2DGame.Player {
+
     /// <summary>Wraps the InputActions class and exposes player input.</summary>
     public class PlayerInput : MonoBehaviour {
         private InputActions _controls;
@@ -23,4 +25,5 @@ namespace Isometric2DGame.Player {
             _controls.Dispose();
         }
     }
+
 }

@@ -1,7 +1,10 @@
-using UnityEngine;
 using Isometric2DGame.Core;
 
+using UnityEngine;
+
+
 namespace Isometric2DGame.Enemy {
+
     public class EnemyPatrolState : State<EnemyController> {
         private int _index;
 
@@ -10,25 +13,26 @@ namespace Isometric2DGame.Enemy {
         private Vector2 CurrentPoint => Entity.PatrolPoints[_index].position;
 
         public override void Tick() {
-            if (Entity.CanSeePlayer(Entity.Config.DetectRange)) {
+            if (Entity.CanSeePlayer(Entity.Data.DetectRange)) {
                 Entity.EngageTarget();
                 return;
             }
 
-            float distance = Vector2.Distance(Entity.transform.position, CurrentPoint);
+            var distance = Vector2.Distance(Entity.transform.position, CurrentPoint);
 
-            if (distance <= Entity.Config.PatrolPointTolerance) {
+            if (distance <= Entity.Data.PatrolPointTolerance) {
                 _index = (_index + 1) % Entity.PatrolPoints.Length;
                 Entity.ChangeState(Entity.Idle);
             }
         }
 
         public override void FixedTick() {
-            Entity.MoveToward(CurrentPoint, Entity.Config.PatrolSpeed);
+            Entity.MoveToward(CurrentPoint, Entity.Data.PatrolSpeed);
         }
 
         public override void Exit() {
             Entity.Stop();
         }
     }
+
 }

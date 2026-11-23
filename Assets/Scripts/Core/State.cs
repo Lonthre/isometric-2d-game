@@ -1,4 +1,5 @@
 namespace Isometric2DGame.Core {
+
     /// <summary>Base class for a state owned by a context of TEntity.</summary>
     public abstract class State<TEntity> {
         protected readonly TEntity Entity;
@@ -12,4 +13,5 @@ namespace Isometric2DGame.Core {
         public virtual void Tick() { }
         public virtual void FixedTick() { }
     }
+
 }
